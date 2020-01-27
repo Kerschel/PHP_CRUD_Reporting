@@ -1,0 +1,35 @@
+table { 
+	/* width: 750px;  */
+	/* border-collapse: collapse;  */
+	/* margin:50px auto; */
+	}
+table th {
+	color: rgba(255, 255, 0, 0.877);
+	font-size: 1.2rem;
+	}
+th { 
+	background: #131680; 
+	font-weight: bold; 
+	}
+
+td, th { 
+	padding: 10px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+	font-size: 18px;
+	}
+
+.labels tr td {
+	background-color: rgba(255, 255, 0, 0.877);
+	font-weight: bold;
+	
+}
+
+.label tr td label {
+	display: block;
+}
+
+
+[data-toggle="toggle"] {
+	display: none;
+}
