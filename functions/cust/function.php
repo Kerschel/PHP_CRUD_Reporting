@@ -27,7 +27,7 @@
 function get_total_all_records()
 {
 	include('db.php');
-	$statement = $connection->prepare("SELECT * FROM masterkeys");
+	$statement = $connection->prepare("SELECT * FROM py_sales where MAST_CUST_NAME ='' or MAST_CUST_ID ='' group by name");
 	$statement->execute();
 	$result = $statement->fetchAll();
 	return $statement->rowCount();

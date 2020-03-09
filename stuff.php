@@ -134,7 +134,7 @@
 				<div class="inner">
 					
 					<div class="copyright">
-						&copy; Ramps Logistics 2018 | <a href="https://rampslogistics.com">Visit Website</a>.
+						&copy; Ramps Logistics 2020 | <a href="https://rampslogistics.com">Visit Website</a>.
 					</div>
 				</div>
 			</footer>

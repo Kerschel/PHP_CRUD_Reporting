@@ -78,7 +78,6 @@
                                     $actual =mysqli_query($connect,"SELECT SUM(amount) as total FROM invoices WHERE customer in
                                     (SELECT customer FROM masterkeys where segment = ".$segment['id'].") AND date BETWEEN ".date($from)." AND ".date($to)." " );
                                     
-                                    
                                     $actual = mysqli_fetch_array($actual)['total'];
 
                                     $result =mysqli_query($connect,"SELECT customer,SUM(amount) as amount,date  FROM invoices WHERE customer in
@@ -123,7 +122,7 @@
                 <div class="inner">
                     
                     <div class="copyright">
-                        &copy; Ramps Logistics 2018 | <a href="https://rampslogistics.com">Visit Website</a>.
+                        &copy; Ramps Logistics 2020 | <a href="https://rampslogistics.com">Visit Website</a>.
                     </div>
                 </div>
             </footer>

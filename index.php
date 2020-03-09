@@ -4,7 +4,12 @@ $time = date("d-m-Y H.i.s");
 $errorCounter = 0;
 $message = "";
 $xmlFile = "";
-
+set_time_limit(50000000); // 
+// $connect = mysqli_connect("localhost",'root',"","reporting");
+// $select = mysqli_query($connect,"SELECT source,customer_name as name  from active_customers ");
+// // print_r($select);
+// // $cust =mysqli_query($connect,"SELECT  id,customer,action FROM masterkeys");
+// while ($data = mysqli_fetch_array($select)){
 if (isset($_POST["xlsForm"])){
 			
 	if (isset($_FILES['xls']) && ($_FILES['xls']['error'] == UPLOAD_ERR_OK)) {
@@ -50,37 +55,16 @@ if (isset($_POST["xlsForm"])){
 											TRUE,
 											FALSE);
 			$data[$row] = $rowData[0];
-			// print_r($rowData[0]);
 			// print("\n");
 			//  Insert row data array into your database of choice here
 		}
-		$link = mysqli_connect("localhost", "root", "", "reporting");
+$link = mysqli_connect("localhost",'root',"","reporting");
+
+		// $link = mysqli_connect("rampslogistics-mysqldbserver.mysql.database.azure.com", "mysqladmin@rampslogistics-mysqldbserver", "Ramps101*", "reporting");
 		// Check connection
 		if($link === false){
 			die("ERROR: Could not connect. " . mysqli_connect_error());
 		}
-		
-		
-
-
-		// 0 - type | Date - 1 | Invoice 2| Name - 3 | QTY - 5 | Sales Price - 6 | Amount - 7| Balance -8
-		// foreach ($data as $key => $val) {
-		// 	if (trim($val[0]) == "Invoice"){
-		// 		$sqlselect = 'SELECT customer FROM masterkeys WHERE customer ="'.$val[3].'"';
-		// 		$exqry = mysqli_query($link, $sqlselect);
-				
-		// 		$count = mysqli_num_rows($exqry);
-		// 		if($count == 0){
-		// 			$sql = 'INSERT INTO masterkeys (customer) VALUES ("'.$val[3].'")';
-		// 			if(mysqli_query($link, $sql)){
-		// 				echo "Records inserted successfully.";
-		// 			} else{
-		// 				echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
-		// 			}
-		// 		}
-					
-		// 	}
-		// }
 
 		$months['Jan'] = 1;
 		$months['Feb'] = 2;
@@ -96,14 +80,110 @@ if (isset($_POST["xlsForm"])){
 		$months['Dec'] = 12;
 
 		foreach ($data as $key => $val) {
-				$sqlselect = mysqli_fetch_assoc(mysqli_query($link,'SELECT master_id FROM customers WHERE customer_name like concat("%","'.$val[6].'","%") LIMIT 1'));
-				$id = $sqlselect['master_id'];
+				// $sqlselect = mysqli_fetch_assoc(mysqli_query($link,'SELECT master_id FROM customers WHERE customer_name like concat("%","'.$val[6].'","%") LIMIT 1'));
+				// $sqlselect = mysqli_fetch_assoc(mysqli_query($link,'SELECT customer_name,master_id,guid FROM active_customers WHERE customer_name like concat("%","'.$val[6].'","%") LIMIT 1'));
+				$sqlselect = mysqli_fetch_assoc(mysqli_query($link,'SELECT * FROM lookup_table1 WHERE name like concat("","'.substr($val[6],0,10).'","%") or name like concat("_","'.substr($val[6],0,10).'","%") and system = "'.$val[12].'" LIMIT 1'));
+				$id = $sqlselect['MAST_CUST_ID'];
+				$cust = mysqli_fetch_assoc(mysqli_query($link,'SELECT * FROM lookup_table2 WHERE MAST_CUST_ID = '.$id.''));
+				$master_name = $cust['MAST_CUST_NAME'];
+				$guid = $sqlselect['CUST_GUID'];
 				$dateFormat = explode("/",$val[3]);
 				$dateFormat[0] = $months[$dateFormat[0]] ;
+				$month = explode("/",$val[3])[0];
 				$dateFormat = implode("-",$dateFormat);
 				$customer = rtrim(ltrim($val[6]));
 				$type = rtrim(ltrim($val[2]));
-				$sql = 'INSERT INTO invoices (source,customer_id,customer,invoice_no,date,amount,sales_price,type,heading,subheading,memo) VALUES (2,"'.$id.'","'.$customer.'","'.$val[5].'","'.date('Y-m-d',strtotime($dateFormat)).'","'.$val[10].'","'.$val[9].'","'.$type.'","'.$val[0].'","'.$val[1].'","'.$val[7].'")';
+				$date = DateTime::createFromFormat('m-d-Y',$dateFormat);
+				// echo $date->format('Y-m-d');
+				// echo date('d-m-Y',strtotime($dateFormat));
+			
+				$sql= mysqli_query($link,'INSERT INTO py_sales
+				(
+				SYSTEM,
+				COUNTRY,
+				HEAD,
+				SUBHEAD,
+				TYPE,
+				RDATE,
+				DATE,
+				SER_NO,
+				NAME,
+				MEMO,
+				QTY,
+				SALES_PRICE,
+				AMOUNT,
+				CURRENCY,
+				MNTH,
+				CUST_GUID,
+				BASE_AMOUNT,
+				MAST_CUST_ID,
+				MAST_CUST_NAME)
+				VALUES
+				("'.$val[12].'",
+				"'.$val[13].'",
+				"'.$val[0].'",
+				"'.$val[1].'",
+				"'.$type.'",
+				"'.$date->format('M/d/y').'",
+				"'.$date->format('Y-m-d').'",
+				"'.$val[5].'",
+				"'.$customer.'",
+				"'.$val[7].'",
+				"'.$val[8].'",
+				"'.$val[9].'",
+				"'.$val[10].'",
+				"TTD",
+				"'.$month.'",
+				"'.$guid.'",
+				"'.$val[10].'",
+				"'.$id.'",
+				"'.$master_name.'")
+				 ');
+				//  echo 'INSERT INTO py_sales
+				//  (
+				//  SYSTEM,
+				//  COUNTRY,
+				//  HEAD,
+				//  SUBHEAD,
+				//  TYPE,
+				//  RDATE,
+				//  DATE,
+				//  SER_NO,
+				//  NAME,
+				//  MEMO,
+				//  QTY,
+				//  SALES_PRICE,
+				//  AMOUNT,
+				//  CURRENCY,
+				//  MNTH,
+				//  CUST_GUID,
+				//  BASE_AMOUNT,
+				//  MAST_CUST_ID,
+				//  MAST_CUST_NAME)
+				//  VALUES
+				//  ("'.$val[12].'",
+				//  "'.$val[13].'",
+				//  "'.$val[0].'",
+				//  "'.$val[1].'",
+				//  "'.$type.'",
+				//  "'.$date->format('M/d/y').'",
+				//  "'.$date->format('Y-m-d').'",
+				//  "'.$val[5].'",
+				//  "'.$customer.'",
+				//  "'.$val[7].'",
+				//  "'.$val[8].'",
+				//  "'.$val[9].'",
+				//  "'.$val[10].'",
+				//  "TTD",
+				//  "'.$month.'",
+				//  "'.$guid.'",
+				//  "'.$val[10].'",
+				//  "'.$id.'",
+				//  "'.$master_name.'")
+				//   ';
+				// $sql = 'INSERT INTO invoices (source,customer_id,customer,invoice_no,date,amount,sales_price,type,heading,subheading,memo) VALUES (1,"'.$id.'","'.$customer.'","'.$val[5].'","'.$date->format('Y-m-d').'","'.$val[10].'","'.$val[9].'","'.$type.'","'.$val[0].'","'.$val[1].'","'.$val[7].'")';
+				
+				
 				if(mysqli_query($link, $sql)){
 					continue;
 				} else{
@@ -205,7 +285,7 @@ if (isset($_POST["xlsForm"])){
 				<div class="inner">
 					
 					<div class="copyright">
-						&copy; Ramps Logistics 2018 | <a href="https://rampslogistics.com">Visit Website</a>.
+						&copy; Ramps Logistics 2020 | <a href="https://rampslogistics.com">Visit Website</a>.
 					</div>
 				</div>
 			</footer>

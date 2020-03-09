@@ -96,20 +96,26 @@ if (isset($_POST["xlsForm"])){
 				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
 			</section>
 
-		<!-- Highlights -->
-			<section class="wrapper" id="push">
+        <!-- Highlights -->
+        <h4 class='text-center'>MISSING CUSTOMERS</h4>
+
+			<section class="" id="push">
 				<div class="inner">
                 <div class="table-responsive">
-				<br />
+                <br />
+                
 				<div align="right">
 					<button type="button" id="add_button" data-toggle="modal" data-target="#userModal" class="btn btn-info btn-lg">Add</button>
 				</div>
-				<br /><br />
+                <br /><br />
+                
 				<table id="user_data" class="table table-bordered table-striped">
 					<thead>
 						<tr>
-							<th width="35%">Customer</th>
-							<th width="35%">Segment</th>
+							<th width="35%">Name</th>
+							<th width="35%">GUID</th>
+							<th width="35%">Master Name</th>
+							<th width="35%">System</th>
 							<th width="10%">Edit</th>
 							<th width="10%">Delete</th>
 						</tr>
@@ -131,23 +137,27 @@ if (isset($_POST["xlsForm"])){
                                 <h4 class="modal-title">Add Customer</h4>
                             </div>
                             <div class="modal-body">
-                                <label>Enter Customer's Name</label>
-                                <input type="text" name="customer" id="customer" class="form-control" />
+                                <input type="text"  readonly name="system" id="system" class="form-control" />
                                 <br />
-                                <label>Select a Segment</label>
-                                <select name='segment' id="segment">
-
+                                <label>Customer's Name</label>
+                                <input type="text" readonly name="name" id="name" class="form-control" />
+                                <br />
+                                <label>GUID</label>
+                                <input type="text" name="guid" id="guid" class="form-control" />
+                                <br />
+                                <label>Master Name</label>
+                                <select name='master' id="master">
                                 <?php 
                                     $connect = mysqli_connect("localhost",'root',"","reporting");
-                                    $seg =mysqli_query($connect,"SELECT * FROM segments");
-                                    while ($segment = mysqli_fetch_array($seg)){
+                                    $cust =mysqli_query($connect,"SELECT * FROM lookup_table2 ");
+                                    while ($data = mysqli_fetch_array($cust)){
                                         echo '
-                                        <option value='.$segment['id'].'>'.$segment['segmentname'].'</option>
+                                        <option value='.$data['MAST_CUST_ID'].'>'.$data['MAST_CUST_NAME'].'</option>
                                         ';
                                     }
                                 ?>
                                 </select>
-                                <br />
+                             
                             </div>
                             <div class="modal-footer">
                                 <input type="hidden" name="user_id" id="user_id" />
@@ -165,7 +175,7 @@ if (isset($_POST["xlsForm"])){
 				<div class="inner">
 					
 					<div class="copyright">
-						&copy; Ramps Logistics 2018 | <a href="https://rampslogistics.com">Visit Website</a>.
+						&copy; Ramps Logistics 2020 | <a href="https://rampslogistics.com">Visit Website</a>.
 					</div>
 				</div>
 			</footer>
@@ -242,9 +252,11 @@ if (isset($_POST["xlsForm"])){
                         dataType:"json",
                         success:function(data)
                         {
+                            console.log(data);
                             $('#userModal').modal('show');
-                            $('#customer').val(data.customer);
-                            $('#segment').val(data.segment);
+                            $('#name').val(data.name);
+                            $('#guid').val(data.guid);
+                            $('#system').val(data.system);
                             $('.modal-title').text("Edit User");
                             $('#user_id').val(user_id);
                             $('#action').val("Edit");

@@ -1,0 +1,3292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ForwardingAgents xmlns="http://www.magaya.com/XMLSchema/V1">
+	<ForwardingAgent GUID="e738c2c2-b03f-452d-aa08-59d4fa34cf11">
+		<Type>ForwardingAgent</Type>
+		<Name>SR GROUP AS</Name>
+		<CreatedOn>2020-02-14T09:44:11-05:00</CreatedOn>
+		<Address>
+			<Street>ENERGIVEIEN 9</Street>
+			<Street>4098 N-TANANGER</Street>
+		</Address>
+		<BillingAddress>
+			<Street>ENERGIVEIEN 9</Street>
+			<Street>4098 N-TANANGER</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="1848071c-8b4d-4085-ba2e-ba13ea7ce1fe">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS GERMANY GMBH</Name>
+		<CreatedOn>2020-01-14T10:44:21-05:00</CreatedOn>
+		<Address>
+			<Street>D-60549 FRANKFURT</Street>
+		</Address>
+		<BillingAddress>
+			<Street>D-60549 FRANKFURT</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e1feca39-b4f9-4e2c-bfd3-61b8a8596c24">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY PROJECT LOGISTIVS, INC.</Name>
+		<CreatedOn>2020-01-08T13:14:50-05:00</CreatedOn>
+		<Address>
+			<Street>15993 DIPLOMATIC PLAZA DR</Street>
+			<City>HOUSTON TX</City>
+			<Country>USA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>15993 DIPLOMATIC PLAZA DR</Street>
+			<City>HOUSTON TX</City>
+			<Country>USA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="46d5a7da-f9a4-4f27-95d5-18e2b870e4cb">
+		<Type>ForwardingAgent</Type>
+		<Name>GULF AGENCY CO QATAR</Name>
+		<CreatedOn>2019-12-27T09:29:29-05:00</CreatedOn>
+		<Address>
+			<Street>63 AIRPORT ROAD 1STFLOOR</Street>
+			<Street>63 ZONE 27</Street>
+			<Street>DOHA QATAR</Street>
+		</Address>
+		<BillingAddress>
+			<Street>63 AIRPORT ROAD 1STFLOOR</Street>
+			<Street>63 ZONE 27</Street>
+			<Street>DOHA QATAR</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a62c6e1c-cf75-426a-8c27-b0a026de73f4">
+		<Type>ForwardingAgent</Type>
+		<Name>EUROMSOFT DIGITALE MEDIEN&amp;SOFTWARE</Name>
+		<CreatedOn>2019-12-16T10:35:49-05:00</CreatedOn>
+		<Address>
+			<Street>NEUSEIERSBERGER STRASSE 157</Street>
+			<Street>8055 GRAZ</Street>
+			<Country>AUSTRIA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>NEUSEIERSBERGER STRASSE 157</Street>
+			<Street>8055 GRAZ</Street>
+			<Country>AUSTRIA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="236f40e4-4ec9-483f-adec-250d409ebf71">
+		<Type>ForwardingAgent</Type>
+		<Name>BRAZIL WIND LOGISTICS AG. INTER DE CARGA LTDA</Name>
+		<CreatedOn>2019-12-13T10:56:22-05:00</CreatedOn>
+		<Address>
+			<Street>AV SANTA CATARINA</Street>
+			<Street>493-SAO PAULO</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV SANTA CATARINA</Street>
+			<Street>493-SAO PAULO</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="6771d988-8ef3-4806-abcd-25e076d8f0a4">
+		<Type>ForwardingAgent</Type>
+		<Name>HONGKONG CGL GROUP LIMITED</Name>
+		<CreatedOn>2019-12-06T14:29:46-05:00</CreatedOn>
+		<Address>
+			<Street>RM 305, BONHAM TRADE CENTRE, NO.50</Street>
+			<Street>BONHAM STRAND, SHEUNG</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RM 305, BONHAM TRADE CENTRE, NO.50</Street>
+			<Street>BONHAM STRAND, SHEUNG</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="69965e25-a7e6-4174-b762-e6c16a29d75c">
+		<Type>ForwardingAgent</Type>
+		<Name>SHIJIAZHUANG GUANYU INDUSTRIAL AND TRADING IMPORT AND EXPORT CO LTD</Name>
+		<CreatedOn>2019-12-06T14:21:34-05:00</CreatedOn>
+		<Address>
+			<Street>JUNTINGYUAN DONGFENGXILU</Street>
+			<Street>#123 QIAOXI DISTRICT</Street>
+		</Address>
+		<BillingAddress>
+			<Street>JUNTINGYUAN DONGFENGXILU</Street>
+			<Street>#123 QIAOXI DISTRICT</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="fd3be26c-3ce3-4c82-92d2-290149befd5c">
+		<Type>ForwardingAgent</Type>
+		<Name>AIRLOG GROUP OY</Name>
+		<CreatedOn>2019-12-05T10:31:08-05:00</CreatedOn>
+		<Address>
+			<Street>FI-01740 VANTAA</Street>
+			<Street>FINLAND</Street>
+		</Address>
+		<BillingAddress>
+			<Street>FI-01740 VANTAA</Street>
+			<Street>FINLAND</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="69e18f6a-1a1b-4ae2-afb9-dff21545c9a0">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS COLOMBIA SAS</Name>
+		<CreatedOn>2019-12-04T10:11:41-05:00</CreatedOn>
+		<Address>
+			<Street>CALLE</Street>
+			<Street>BOGOTA</Street>
+			<Country Code="CO">COLOMBIA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>CALLE</Street>
+			<Street>BOGOTA</Street>
+			<Country Code="CO">COLOMBIA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="c8661b25-171f-467a-a1b2-e7ce2290f67c">
+		<Type>ForwardingAgent</Type>
+		<Name>GATEWAY INTERANTIONAL TRANSPORT INC</Name>
+		<CreatedOn>2019-11-26T15:37:00-05:00</CreatedOn>
+		<Address>
+			<Street>18201 VISCOUNT</Street>
+			<Street>HOUSTON</Street>
+		</Address>
+		<BillingAddress>
+			<Street>18201 VISCOUNT</Street>
+			<Street>HOUSTON</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a2fa9f98-021a-4a2a-8a98-a936b4284e83">
+		<Type>ForwardingAgent</Type>
+		<Name>CONNOR ANDERSON INTERNATIONAL TRUST</Name>
+		<CreatedOn>2019-11-26T11:25:02-05:00</CreatedOn>
+		<Address>
+			<Street>7/92-100 BELMORE RD</Street>
+			<Street>RIVERWOOD</Street>
+		</Address>
+		<BillingAddress>
+			<Street>7/92-100 BELMORE RD</Street>
+			<Street>RIVERWOOD</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9113aaa9-e4f3-49ac-a4da-22fd9e1adbd9">
+		<Type>ForwardingAgent</Type>
+		<Name>NOATUM LOGISTICS USA, LLC</Name>
+		<CreatedOn>2019-11-21T11:07:29-05:00</CreatedOn>
+		<Address>
+			<Street>8550W BRYN MAWR AVE STE</Street>
+			<Street>400 CHICAGO IL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>8550W BRYN MAWR AVE STE</Street>
+			<Street>400 CHICAGO IL</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="6a1e71b7-7994-47a4-aee3-f047b314f5ce">
+		<Type>ForwardingAgent</Type>
+		<Name>CARGODIRECT LOGISTICS CO.,LTD</Name>
+		<CreatedOn>2019-11-14T13:52:08-05:00</CreatedOn>
+		<Address>
+			<Street>Rom A-302, Bosheng Le Tao Cheng,</Street>
+			<Street>No 38 ShiShan Road,Huangpu District, Guangzhou City</Street>
+		</Address>
+		<BillingAddress>
+			<Street>Rom A-302, Bosheng Le Tao Cheng,</Street>
+			<Street>No 38 ShiShan Road,Huangpu District, Guangzhou City</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f038e5d5-42f0-4fb4-a0f0-47f47f6fcf6a">
+		<Type>ForwardingAgent</Type>
+		<Name>ANJ WORLDWIDE FREIGTH PVT LTD</Name>
+		<CreatedOn>2019-11-12T13:20:01-05:00</CreatedOn>
+		<Address>
+			<Street>SATARA PLAZA, 1ST FLOOR OFFICE</Street>
+			<Street>VASHI NAVI MUMB</Street>
+		</Address>
+		<BillingAddress>
+			<Street>SATARA PLAZA, 1ST FLOOR OFFICE</Street>
+			<Street>VASHI NAVI MUMB</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7fe4377a-bb82-4d82-be54-64fbaf87c851">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS POLYNESIE</Name>
+		<CreatedOn>2019-11-07T15:46:31-05:00</CreatedOn>
+		<Address>
+			<Street>2ème étage avenue du chef Vairaatoa</Street>
+			<Street>98713 Papeete - Tahiti</Street>
+			<Street>Polynésie Française</Street>
+		</Address>
+		<BillingAddress>
+			<Street>2ème étage avenue du chef Vairaatoa</Street>
+			<Street>98713 Papeete - Tahiti</Street>
+			<Street>Polynésie Française</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="ff5a9306-c85d-4343-a27f-8e0645cf2428">
+		<Type>ForwardingAgent</Type>
+		<Name>TRAFIVER LOGISTICS SA DE CV</Name>
+		<CreatedOn>2019-11-07T11:52:37-05:00</CreatedOn>
+		<Address>
+			<Street>CALLEJON DE LA PASTRORA 14</Street>
+			<Street>COL MANUEL CONTRERAS</Street>
+			<Country Code="MX">MEXICO</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>CALLEJON DE LA PASTRORA 14</Street>
+			<Street>COL MANUEL CONTRERAS</Street>
+			<Country Code="MX">MEXICO</Country>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="29b25f6d-fcff-4f2b-9711-d32793db1a6a">
+		<Type>ForwardingAgent</Type>
+		<Name>OMNI LOGISTICS- IAH</Name>
+		<CreatedOn>2019-11-06T10:20:04-05:00</CreatedOn>
+		<Address>
+			<Street>1755 TRANSCENTRAL CT. STE</Street>
+			<Street>400 HOUSTON</Street>
+			<ZipCode>77032</ZipCode>
+		</Address>
+		<BillingAddress>
+			<Street>1755 TRANSCENTRAL CT. STE</Street>
+			<Street>400 HOUSTON</Street>
+			<ZipCode>77032</ZipCode>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="677f43b6-5152-4f7e-a268-3bfa2dd9c518">
+		<Type>ForwardingAgent</Type>
+		<Name>DHL GLOBAL FORWARDING (SINGAPORE) PTE LTD</Name>
+		<CreatedOn>2019-11-06T09:26:13-05:00</CreatedOn>
+		<Address>
+			<Street>1 CHANGI SOUTH STREET 2, DHL DISTRIBUTION</Street>
+			<Street>CENTRE</Street>
+			<Country Code="SG">SINGAPORE</Country>
+		</Address>
+		<BillingAddress>
+			<Street>1 CHANGI SOUTH STREET 2, DHL DISTRIBUTION</Street>
+			<Street>CENTRE</Street>
+			<Country Code="SG">SINGAPORE</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7bf88580-ab8d-4c9f-acde-9aa11792bc7b">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS</Name>
+		<CreatedOn>2019-10-18T16:09:15-04:00</CreatedOn>
+		<Address>
+			<Street>8822 BOGGY CREEK RD STE</Street>
+			<Street>200 ORLANDO</Street>
+			<Street>US</Street>
+		</Address>
+		<BillingAddress>
+			<Street>8822 BOGGY CREEK RD STE</Street>
+			<Street>200 ORLANDO</Street>
+			<Street>US</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f0dbb8d1-e3e5-4390-9eb0-f1b36557ff65">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FRT MANAGEMENT DO BRASIL</Name>
+		<CreatedOn>2019-10-10T16:20:53-04:00</CreatedOn>
+		<Address>
+			<Street>RUA GUAPURUVU 299- CJ 09 A1</Street>
+			<Street>LOTEAMENTO ALPHAVILLE CAMPINA</Street>
+			<Street>BRASIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUA GUAPURUVU 299- CJ 09 A1</Street>
+			<Street>LOTEAMENTO ALPHAVILLE CAMPINA</Street>
+			<Street>BRASIL</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="820cd196-63f5-403d-a8b9-a2c8142e6338">
+		<Type>ForwardingAgent</Type>
+		<Name>NOATUM LOGISTICS NETHERLAND B.V</Name>
+		<CreatedOn>2019-10-10T15:36:57-04:00</CreatedOn>
+		<Address>
+			<Street>SHANNONWEG 3</Street>
+			<Street>1118 LA SCHIPHOL</Street>
+			<Country Code="NL">NETHERLANDS</Country>
+		</Address>
+		<BillingAddress>
+			<Street>SHANNONWEG 3</Street>
+			<Street>1118 LA SCHIPHOL</Street>
+			<Country Code="NL">NETHERLANDS</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f95442ef-5428-4f4c-8ec6-129d42392867">
+		<Type>ForwardingAgent</Type>
+		<Name>NOATUM LOGISTICS (SHANGHAI) LIMITED</Name>
+		<CreatedOn>2019-10-10T14:50:45-04:00</CreatedOn>
+		<Address>
+			<Street>SUIT B, 15TH FLOOR, HABOUR RING HUANGPU CENTRE</Street>
+			<Street>98 LIUHE ROAD.</Street>
+			<City>SHANGHAI</City>
+			<Country>CHINA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>SUIT B, 15TH FLOOR, HABOUR RING HUANGPU CENTRE</Street>
+			<Street>98 LIUHE ROAD.</Street>
+			<City>SHANGHAI</City>
+			<Country>CHINA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9c9843a0-9038-4bfc-a55a-103048817e90">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS S.A DE C.V</Name>
+		<CreatedOn>2019-10-04T13:58:14-04:00</CreatedOn>
+		<Address>
+			<Street>HOMERO 1425-701</Street>
+			<Street>POLANCO 11510</Street>
+			<Country>MEXICO CITY</Country>
+		</Address>
+		<BillingAddress>
+			<Street>HOMERO 1425-701</Street>
+			<Street>POLANCO 11510</Street>
+			<Country>MEXICO CITY</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0f06d5d5-f8de-4d25-88a9-7b0692d64db6">
+		<Type>ForwardingAgent</Type>
+		<Name>NOATUM LOGISTICS PERU INC. S.R.L</Name>
+		<CreatedOn>2019-10-03T09:34:10-04:00</CreatedOn>
+		<Address>
+			<Street>AV. 28 DE JULIO N. 150DPTO</Street>
+			<Street>MIRAFLORES LIMA- PERU</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV. 28 DE JULIO N. 150DPTO</Street>
+			<Street>MIRAFLORES LIMA- PERU</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="74616cbc-07a1-4961-97be-e442a64703e0">
+		<Type>ForwardingAgent</Type>
+		<Name>DC LOGISTICS BRASIL LTDA</Name>
+		<CreatedOn>2019-10-02T11:20:36-04:00</CreatedOn>
+		<Address>
+			<Street>RUA CAMBORIU, 590</Street>
+			<Street>ITAJIA BRASIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUA CAMBORIU, 590</Street>
+			<Street>ITAJIA BRASIL</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7a1e3553-724d-497c-9a6c-deca082825a6">
+		<Type>ForwardingAgent</Type>
+		<Name>CARGO FREIGHT SERVICES</Name>
+		<CreatedOn>2019-09-26T15:58:44-04:00</CreatedOn>
+		<Address>
+			<Street>BULDING SIRENA</Street>
+			<Street>COLON, REP OF PANAMA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>BULDING SIRENA</Street>
+			<Street>COLON, REP OF PANAMA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="17f91607-ee1f-4039-a4ab-628993f8ea48">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT LLC</Name>
+		<CreatedOn>2019-09-23T14:35:57-04:00</CreatedOn>
+		<Address>
+			<Street>2151 AIRWEST BLVD</Street>
+			<Street>PLAINFIELD IN 46168</Street>
+			<Street>US</Street>
+		</Address>
+		<BillingAddress>
+			<Street>2151 AIRWEST BLVD</Street>
+			<Street>PLAINFIELD IN 46168</Street>
+			<Street>US</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="43f56f35-23b3-439d-b2de-ed5d8532ba51">
+		<Type>ForwardingAgent</Type>
+		<Name>GCO EXPRESS SPA</Name>
+		<CreatedOn>2019-09-23T11:11:08-04:00</CreatedOn>
+		<Address>
+			<Street>COCHRANE 639 OF122</Street>
+			<Street>VALPARAISO</Street>
+			<Country Code="CL">CHILE</Country>
+		</Address>
+		<BillingAddress>
+			<Street>COCHRANE 639 OF122</Street>
+			<Street>VALPARAISO</Street>
+			<Country Code="CL">CHILE</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="30da7771-0107-45cb-b60a-671f2abe9965">
+		<Type>ForwardingAgent</Type>
+		<Name>WM SHIPPING LIMITED T/A SANTOVA LOGISTICS</Name>
+		<CreatedOn>2019-09-17T11:29:07-04:00</CreatedOn>
+		<Address>
+			<Street>CENTURION HOUSE,</Street>
+			<Street>LONDON ROAD,</Street>
+			<Street>STAINES-UPON-THAM, SURREY, TW18 4A</Street>
+			<Country Code="GB">UNITED KINGDOM</Country>
+		</Address>
+		<BillingAddress>
+			<Street>CENTURION HOUSE,</Street>
+			<Street>LONDON ROAD,</Street>
+			<Street>STAINES-UPON-THAM, SURREY, TW18 4A</Street>
+			<Country Code="GB">UNITED KINGDOM</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2577ea30-b95d-4b86-9bd1-56ee37eb15ce">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT ITALY S.R.L</Name>
+		<CreatedOn>2019-09-13T14:08:44-04:00</CreatedOn>
+		<Address>
+			<Street>STRADA LEINI 20</Street>
+			<Street>10072 TURIN CASELLE ITALY</Street>
+		</Address>
+		<BillingAddress>
+			<Street>STRADA LEINI 20</Street>
+			<Street>10072 TURIN CASELLE ITALY</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="925693bb-e2c9-4df6-a678-9b469a46ba8b">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING  A/S DK40516611</Name>
+		<CreatedOn>2019-09-11T10:37:35-04:00</CreatedOn>
+		<Address>
+			<Street>24 FENNAWEG</Street>
+			<Street>C/O BLUE WATER SHIPPING BV 2991 ZA BARENDRECHT</Street>
+			<Country Code="NL">NETHERLANDS</Country>
+		</Address>
+		<BillingAddress>
+			<Street>24 FENNAWEG</Street>
+			<Street>C/O BLUE WATER SHIPPING BV 2991 ZA BARENDRECHT</Street>
+			<Country Code="NL">NETHERLANDS</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="88f53195-3d73-42c6-a7ff-c2d366ad810e">
+		<Type>ForwardingAgent</Type>
+		<Name>CENTRAL DISPATCH INC.</Name>
+		<CreatedOn>2019-08-20T11:52:08-04:00</CreatedOn>
+		<Address>
+			<Street>1700 4TH Street, Harvey,</Street>
+			<Street>Louisiana 70058</Street>
+		</Address>
+		<BillingAddress>
+			<Street>1700 4TH Street, Harvey,</Street>
+			<Street>Louisiana 70058</Street>
+		</BillingAddress>
+		<Balance Currency="USD">241.50999999999999</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0843fadc-b9ea-4974-828f-8c28178e23b0">
+		<Type>ForwardingAgent</Type>
+		<Name>AVALON HOLDINGS LIMITED</Name>
+		<CreatedOn>2019-08-13T14:10:08-04:00</CreatedOn>
+		<Address>
+			<Street>UNIT 1005 PROSPEROUS BLDG, 48-52</Street>
+			<Street>DES VOEUX ROAD CENTRAL, HK</Street>
+		</Address>
+		<BillingAddress>
+			<Street>UNIT 1005 PROSPEROUS BLDG, 48-52</Street>
+			<Street>DES VOEUX ROAD CENTRAL, HK</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="957e17fc-3a48-47e7-b244-16b04bbeefb9">
+		<Type>ForwardingAgent</Type>
+		<Name>FREIGHT TEAM M SDN BHD</Name>
+		<CreatedOn>2019-08-07T12:05:06-04:00</CreatedOn>
+		<Address>
+			<Street>604-606 BLOCK A KELANA BUSINESS CENTRE</Street>
+			<Street>97 JALAN SS7/2 KELANA</Street>
+			<Street>47301 PETALING JAYA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>604-606 BLOCK A KELANA BUSINESS CENTRE</Street>
+			<Street>97 JALAN SS7/2 KELANA</Street>
+			<Street>47301 PETALING JAYA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="d55fbde9-9555-4d7c-b22f-58bcfe9a9018">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS USA INC.</Name>
+		<CreatedOn>2019-08-06T11:03:35-04:00</CreatedOn>
+		<Address>
+			<Street>15490 VICKERY DRIVE</Street>
+			<State>HOUSTON TX</State>
+			<ZipCode>77032</ZipCode>
+			<Country Code="US">UNITED STATES</Country>
+		</Address>
+		<BillingAddress>
+			<Street>15490 VICKERY DRIVE</Street>
+			<State>HOUSTON TX</State>
+			<ZipCode>77032</ZipCode>
+			<Country Code="US">UNITED STATES</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a6185a0f-f842-4c69-81f8-a1af36fb8979">
+		<Type>ForwardingAgent</Type>
+		<Name>W.M SHIPPING LIMITED T/A SANTONA LOGISTICS</Name>
+		<CreatedOn>2019-07-23T11:41:50-04:00</CreatedOn>
+		<Address>
+			<Street>HEATHROW</Street>
+		</Address>
+		<BillingAddress>
+			<Street>HEATHROW</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="5805e091-e628-4118-9bed-d6b3eff3b65f">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT MANAGEMENT LOGISTICA DE CHILE</Name>
+		<CreatedOn>2019-07-17T15:24:21-04:00</CreatedOn>
+		<Address>
+			<Street>AV.EL PARQUE 1307 MODULO_5</Street>
+			<Street>PARQUE INDUSTRIAL ENEA</Street>
+			<Street>PUDHAUEL SANTIAGO DE CHILE</Street>
+			<Country Code="CL">CHILE</Country>
+		</Address>
+		<BillingAddress>
+			<Street>AV.EL PARQUE 1307 MODULO_5</Street>
+			<Street>PARQUE INDUSTRIAL ENEA</Street>
+			<Street>PUDHAUEL SANTIAGO DE CHILE</Street>
+			<Country Code="CL">CHILE</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="6b2c415a-c098-4dbb-98f6-536cb547a5c5">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT MANAGEMENT COSTA RICA</Name>
+		<CreatedOn>2019-07-11T09:44:08-04:00</CreatedOn>
+		<Address>
+			<Street>CARE OF PYRAMID LINES AS CARRIER</Street>
+			<Street>CC PLAZA RHRMOSER, PAVAS</Street>
+			<Street>SAN JOSE</Street>
+			<Country Code="CR">COSTA RICA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>CARE OF PYRAMID LINES AS CARRIER</Street>
+			<Street>CC PLAZA RHRMOSER, PAVAS</Street>
+			<Street>SAN JOSE</Street>
+			<Country Code="CR">COSTA RICA</Country>
+		</BillingAddress>
+		<Balance Currency="USD">-2516.50</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="164e5638-22e2-42d1-b29d-805bbd3a75eb">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FRT MANAGEMENT DO BRASIL LTDA</Name>
+		<CreatedOn>2019-07-10T13:25:04-04:00</CreatedOn>
+		<Address>
+			<Street>AV ENG. LUIZ CARLOS BERRINI 105</Street>
+			<Street>CJ-41 CIDADE MONCES</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV ENG. LUIZ CARLOS BERRINI 105</Street>
+			<Street>CJ-41 CIDADE MONCES</Street>
+		</BillingAddress>
+		<Balance Currency="USD">338.82999999999998</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9b7c2cd2-9af9-4360-a82b-9289a0651454">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS PERU S.A</Name>
+		<CreatedOn>2019-07-09T16:52:48-04:00</CreatedOn>
+		<Address>
+			<Street>RUC:20536559125</Street>
+			<Street>AV. JOSE PARDO 513, ROOM 902</Street>
+			<Street>MIRAFLORES DISTRICT LIMA LIMA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUC:20536559125</Street>
+			<Street>AV. JOSE PARDO 513, ROOM 902</Street>
+			<Street>MIRAFLORES DISTRICT LIMA LIMA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="5455a473-b49b-4d0c-90f1-ef1e051bea0f">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT CANADA CORP</Name>
+		<CreatedOn>2019-07-09T15:26:56-04:00</CreatedOn>
+		<Address>
+			<Street>1880 AMTHESON BLVD.E</Street>
+			<Street>MISSISSAUGA</Street>
+			<Street>ON L4A 5N4</Street>
+			<Country Code="CA">CANADA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>1880 AMTHESON BLVD.E</Street>
+			<Street>MISSISSAUGA</Street>
+			<Street>ON L4A 5N4</Street>
+			<Country Code="CA">CANADA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="375a058e-8320-4209-b400-040e051cd9c4">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS (SHANGHAI) LIMITED</Name>
+		<CreatedOn>2019-07-04T18:12:32-04:00</CreatedOn>
+		<Address>
+			<Street>BUILDING #9, IBP 280 LINHONG ROAD, CHANGNING DISTRICT  SHANGHAI</Street>
+		</Address>
+		<BillingAddress>
+			<Street>BUILDING #9, IBP 280 LINHONG ROAD, CHANGNING DISTRICT  SHANGHAI</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="59104e08-ce54-4c57-bc9e-1bcc53fd3bd5">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS ( INDIA) PVT LTD FORINDIA</Name>
+		<CreatedOn>2019-07-04T10:16:07-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f2b80491-699d-4d7f-b4dd-f80d3a3227f2">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT AUSTRIA GMBH</Name>
+		<CreatedOn>2019-05-31T11:47:49-04:00</CreatedOn>
+		<Address>
+			<Street>INDUSTRIEZEILE 1, OBJEKT 5</Street>
+			<City>KALSDORF</City>
+			<ZipCode>8401</ZipCode>
+			<Country Code="AT">AUSTRIA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>INDUSTRIEZEILE 1, OBJEKT 5</Street>
+			<City>KALSDORF</City>
+			<ZipCode>8401</ZipCode>
+			<Country Code="AT">AUSTRIA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="fbeb8275-d7f5-470c-8469-f78832d6aaa6">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS FINLAND OY</Name>
+		<CreatedOn>2019-05-29T08:45:55-04:00</CreatedOn>
+		<Address>
+			<Street>AYRITIE 12C, 3RD FLOOR</Street>
+			<Street>VANTAA</Street>
+			<City>HELSINKI</City>
+			<ZipCode>01510</ZipCode>
+			<Country Code="FI">FINLAND</Country>
+			<PortCode>HEL</PortCode>
+		</Address>
+		<BillingAddress>
+			<Street>AYRITIE 12C, 3RD FLOOR</Street>
+			<Street>VANTAA</Street>
+			<City>HELSINKI</City>
+			<ZipCode>01510</ZipCode>
+			<Country Code="FI">FINLAND</Country>
+			<PortCode>HEL</PortCode>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="4f371bd6-9fec-49f6-a323-20e3d4d6f7a4">
+		<Type>ForwardingAgent</Type>
+		<Name>SHA (AGILITY SHANGHAI)</Name>
+		<CreatedOn>2019-05-23T13:50:52-04:00</CreatedOn>
+		<Address>
+			<Street>BUILDING NO. 9 IBP</Street>
+			<Street>280 LINHONG RD, CHANGNING</Street>
+			<Street>DISTRICT, 200335 CHINA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>BUILDING NO. 9 IBP</Street>
+			<Street>280 LINHONG RD, CHANGNING</Street>
+			<Street>DISTRICT, 200335 CHINA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9444ff01-0b9d-41b6-8d90-d6d41da0b164">
+		<Type>ForwardingAgent</Type>
+		<Name>MIQ LOGISTICS INDIA PVT LTD</Name>
+		<CreatedOn>2019-05-07T09:55:51-04:00</CreatedOn>
+		<Address>
+			<Street>NO A 294 1 ROAD 6 NH 08 MAHIPALPUR EXT</Street>
+			<Street>NEW DELHI IN 110037</Street>
+		</Address>
+		<BillingAddress>
+			<Street>NO A 294 1 ROAD 6 NH 08 MAHIPALPUR EXT</Street>
+			<Street>NEW DELHI IN 110037</Street>
+		</BillingAddress>
+		<Balance Currency="USD">80.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="dbe58929-1285-4fb0-81d6-9c1ddd2b5b8e">
+		<Type>ForwardingAgent</Type>
+		<Name>DSV AIR &amp; SEA INC</Name>
+		<CreatedOn>2019-05-02T15:22:31-04:00</CreatedOn>
+		<Address>
+			<Country>HOUSTON</Country>
+		</Address>
+		<BillingAddress>
+			<Country>HOUSTON</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="ce663393-584c-427e-bd42-35dcf534a209">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS SOUTH AFRICA</Name>
+		<CreatedOn>2019-04-23T11:26:14-04:00</CreatedOn>
+		<Address>
+			<Street>UNIT 1 GREENFIELD INDUSTRIAL MOBILE ROAD AIRPORT  INDUSTRIAL</Street>
+			<City>CAPE TOWN</City>
+			<Country Code="ZA">SOUTH AFRICA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>UNIT 1 GREENFIELD INDUSTRIAL MOBILE ROAD AIRPORT  INDUSTRIAL</Street>
+			<City>CAPE TOWN</City>
+			<Country Code="ZA">SOUTH AFRICA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="fa5ce927-296b-4a97-a64e-9bb09f8cd6de">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING US INC</Name>
+		<CreatedOn>2019-04-10T15:58:36-04:00</CreatedOn>
+		<Address>
+			<Street>16945 GREENSPOINT DRIVE</Street>
+			<City>HOUSTON</City>
+			<State>TX</State>
+			<ZipCode>77060</ZipCode>
+			<Country Code="US">UNITED STATES</Country>
+			<Description>Default Shipping Address</Description>
+			<PortCode>HOU</PortCode>
+		</Address>
+		<BillingAddress>
+			<Street>26 NORTHFIELD AVE.,</Street>
+			<City>EDISON</City>
+			<State>NJ</State>
+			<ZipCode>08837</ZipCode>
+			<Country Code="US">UNITED STATES</Country>
+			<Description>Default Billing Address</Description>
+			<PortCode>HOU</PortCode>
+		</BillingAddress>
+		<Balance Currency="USD">-48726.610000000008</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2ac57446-1303-4ba7-a974-55ddd2e78a23">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS CORP</Name>
+		<CreatedOn>2019-03-19T16:55:27-04:00</CreatedOn>
+		<Address>
+			<Street>10501 FRANKLIN AVE</Street>
+			<Street>FRANKLIN PARK, IL 60131</Street>
+			<Street>UNITED STATES OF AMERICA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>10501 FRANKLIN AVE</Street>
+			<Street>FRANKLIN PARK, IL 60131</Street>
+			<Street>UNITED STATES OF AMERICA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">275.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="74ba2265-68db-4855-a500-2bd2137d92c0">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS LTD</Name>
+		<CreatedOn>2019-03-18T08:51:23-04:00</CreatedOn>
+		<Address>
+			<Street>Houston, Texas, U.S.A</Street>
+			<City>Houston</City>
+			<Country Code="US">UNITED STATES</Country>
+		</Address>
+		<BillingAddress>
+			<Street>Houston, Texas, U.S.A</Street>
+			<City>Houston</City>
+			<Country Code="US">UNITED STATES</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="8cb11960-571a-412d-81f2-4af5a00343b5">
+		<Type>ForwardingAgent</Type>
+		<Name>GRUBER LOGISTICS</Name>
+		<CreatedOn>2019-03-14T11:29:18-04:00</CreatedOn>
+		<Address>
+			<Street>HILLMANNPLATZ 13-15</Street>
+			<Street>28195 BREMEN</Street>
+		</Address>
+		<BillingAddress>
+			<Street>HILLMANNPLATZ 13-15</Street>
+			<Street>28195 BREMEN</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="380def77-ea66-4edb-a1b8-f1f47db0d013">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING A/S</Name>
+		<CreatedOn>2019-03-12T21:02:18-04:00</CreatedOn>
+		<Address>
+			<Street>CIRRUS BLDG 6 INTERNATIONAL AVE</Street>
+			<Street>ABZ BUSINESS PARK, DYCE AVERDEEN</Street>
+			<Country Code="GB">UNITED KINGDOM</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>GB-AB21 0BH ABERDEEN</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="fec904c4-091b-4023-86f1-b022bcc76404">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY DO BRASIL LOG INTL S.A.</Name>
+		<CreatedOn>2019-03-08T10:55:30-05:00</CreatedOn>
+		<Address>
+			<Street>RUA COMENDADOR ARAUJO, 565-4o ANDAR</Street>
+			<Street>CONJ. 401/402- BATEL- CURITIBA- PR</Street>
+			<Street>BRASIL CEP: 80420-000</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUA COMENDADOR ARAUJO, 565-4o ANDAR</Street>
+			<Street>CONJ. 401/402- BATEL- CURITIBA- PR</Street>
+			<Street>BRASIL CEP: 80420-000</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f2d46076-59e7-40da-8283-f6d738c06c9c">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS SOUTH AFRICA (PTY)</Name>
+		<CreatedOn>2019-02-27T13:07:39-05:00</CreatedOn>
+		<Address>
+			<Street>154 MIMOSA ROAD, FAIRVIEW</Street>
+			<City>PORT ELIZABETH</City>
+			<Country Code="ZA">SOUTH AFRICA</Country>
+			<PortCode>DUR</PortCode>
+		</Address>
+		<BillingAddress>
+			<Street>154 MIMOSA ROAD, FAIRVIEW</Street>
+			<City>PORT ELIZABETH</City>
+			<Country Code="ZA">SOUTH AFRICA</Country>
+			<PortCode>DUR</PortCode>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="b9775b4e-bd52-431d-8080-34f9fc0ad114">
+		<Type>ForwardingAgent</Type>
+		<Name>PUNTO SYTEMS S.P.A</Name>
+		<CreatedOn>2019-01-28T15:06:33-05:00</CreatedOn>
+		<Address>
+			<Street>VIA MELONI DI QUARTIROLO, 8</Street>
+			<Street>41012 CARPI MO IT</Street>
+		</Address>
+		<BillingAddress>
+			<Street>VIA MELONI DI QUARTIROLO, 8</Street>
+			<Street>41012 CARPI MO IT</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="261eb626-6cfe-44ac-9558-e32193e048da">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING</Name>
+		<CreatedOn>2019-01-22T12:32:03-05:00</CreatedOn>
+		<Address>
+			<Street>16945 NORTHCASE DRIVE, SUITE 1550</Street>
+			<Street>HOUSTON TX 77060</Street>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>HOULINTAKATU 5 (PO BOX 1850)</Street>
+			<Street>FIN-20100 TURKU, FINLAND</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="67a54b26-2077-4260-ba1c-eda7d620f578">
+		<Type>ForwardingAgent</Type>
+		<Name>LOGITRADE REPRESENTACAO TRANSPORTES E COMERCIO INTERNACIONAL LTDA</Name>
+		<CreatedOn>2019-01-22T11:33:23-05:00</CreatedOn>
+		<Address>
+			<Street>PRACA CORREIA DE MELO, 9 CENTRO</Street>
+			<Street>SANTOS SP BRAZIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>PRACA CORREIA DE MELO, 9 CENTRO</Street>
+			<Street>SANTOS SP BRAZIL</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-100.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="4c930226-5028-4741-9ed1-e9c7d3f09099">
+		<Type>ForwardingAgent</Type>
+		<Name>J GLOBE LOGISTICS CO. LTD.</Name>
+		<CreatedOn>2019-01-15T11:31:40-05:00</CreatedOn>
+		<Address>
+			<Street>GLOBE EXPRESS LOGISTICS CO. LTD.</Street>
+			<Street>ROOM 405 TOWER C NO 212 NANWU ROAD</Street>
+			<Street>GAOQI AIRPORT, HULI DISTRICT</Street>
+			<City>XAIMEN</City>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</Address>
+		<BillingAddress>
+			<Street>GLOBE EXPRESS LOGISTICS CO. LTD.</Street>
+			<Street>ROOM 405 TOWER C NO 212 NANWU ROAD</Street>
+			<Street>GAOQI AIRPORT, HULI DISTRICT</Street>
+			<City>XAIMEN</City>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</BillingAddress>
+		<Balance Currency="USD">-395.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2af871e4-0f47-47df-8189-c91f42f10c14">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS AUSTRIA GMBH</Name>
+		<CreatedOn>2019-01-11T12:17:44-05:00</CreatedOn>
+		<Address>
+			<Street>AIR CARGO CENTER, OBJ. 263</Street>
+			<Street>GATE 3, ROOM 01-211</Street>
+			<Street>A-1300 VIENNA AIRPORT</Street>
+			<Country Code="AT">AUSTRIA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>AIR CARGO CENTER, OBJ. 263</Street>
+			<Street>GATE 3, ROOM 01-211</Street>
+			<Street>A-1300 VIENNA AIRPORT</Street>
+			<Country Code="AT">AUSTRIA</Country>
+		</BillingAddress>
+		<Balance Currency="USD">176.19</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="b1cd1a80-edff-4ccb-a6d7-ab5a3141ba1b">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT MANAGEMENT MEXICO</Name>
+		<CreatedOn>2018-12-06T12:47:44-05:00</CreatedOn>
+		<Address>
+			<Street>PROL. PASEO DE MONTEJO #456, MERIDA</Street>
+			<City>YUCATAN</City>
+			<ZipCode>97100</ZipCode>
+			<Country Code="MX">MEXICO</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>PROL. PASEO DE MONTEJO #456, MERIDA</Street>
+			<City>YUCATAN</City>
+			<ZipCode>97100</ZipCode>
+			<Country Code="MX">MEXICO</Country>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="48bce25d-8e2c-4687-8661-26aaf7c6086e">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS MEXICO S.A DE C.V</Name>
+		<CreatedOn>2018-12-04T11:11:45-05:00</CreatedOn>
+		<Address>
+			<Street>SME980702916, LAGO VICTORIA 74, PISO 8</Street>
+			<City>COLONIA GRANADA</City>
+			<ZipCode>11520</ZipCode>
+			<Country Code="MX">MEXICO</Country>
+		</Address>
+		<BillingAddress>
+			<Street>SME980702916, LAGO VICTORIA 74, PISO 8</Street>
+			<City>COLONIA GRANADA</City>
+			<ZipCode>11520</ZipCode>
+			<Country Code="MX">MEXICO</Country>
+		</BillingAddress>
+		<Balance Currency="USD">-502.92000000000007</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="62d0e0d5-3641-4ebe-92d2-02336305353f">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS COLOMBIA SAS</Name>
+		<CreatedOn>2018-11-29T13:04:28-05:00</CreatedOn>
+		<Address>
+			<City>BOGOTA</City>
+			<Country Code="CO">COLOMBIA</Country>
+		</Address>
+		<BillingAddress>
+			<City>BOGOTA</City>
+			<Country Code="CO">COLOMBIA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e28bd88f-31af-42e2-abcc-f0eb0b1623cd">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS KOREA INC</Name>
+		<CreatedOn>2018-11-28T11:39:52-05:00</CreatedOn>
+		<Address>
+			<City>SEOUL</City>
+			<Country Code="KR">KOREA, REPUBLIC OF</Country>
+		</Address>
+		<BillingAddress>
+			<City>SEOUL</City>
+			<Country Code="KR">KOREA, REPUBLIC OF</Country>
+		</BillingAddress>
+		<Balance Currency="USD">375.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="1a37050b-0194-4d1e-ad05-9939f14fa282">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING AMSTERDAM</Name>
+		<CreatedOn>2018-11-21T13:12:57-05:00</CreatedOn>
+		<Address>
+			<Street>FLAMINGOWEG 7</Street>
+			<Street>SCHIPHOL AIRPORT, 1118EE</Street>
+			<Street>NETHERLANDS</Street>
+		</Address>
+		<BillingAddress>
+			<Street>FLAMINGOWEG 7</Street>
+			<Street>SCHIPHOL AIRPORT, 1118EE</Street>
+			<Street>NETHERLANDS</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7d808c1a-a87f-464b-a9ab-6e077d80c8f7">
+		<Type>ForwardingAgent</Type>
+		<Name>CRANE WORLDWIDE LOGISTICS</Name>
+		<CreatedOn>2018-11-19T10:42:53-05:00</CreatedOn>
+		<Address>
+			<Street>11 TAMPINES CONCOURSE</Street>
+			<Street>UNITS 01-06 &amp; 01-07</Street>
+			<Street>SINGAPORE 528729</Street>
+		</Address>
+		<BillingAddress>
+			<Street>11 TAMPINES CONCOURSE</Street>
+			<Street>UNITS 01-06 &amp; 01-07</Street>
+			<Street>SINGAPORE 528729</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="679173a7-5d88-4372-a3e8-56b1eff49eaf">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISITCS SINGAPORE PTE LTD</Name>
+		<CreatedOn>2018-11-14T12:35:55-05:00</CreatedOn>
+		<Address>
+			<Street>21 JALAN BUROH,</Street>
+			<Street>LEVEL 1</Street>
+			<ZipCode>610478</ZipCode>
+			<Country Code="SG">SINGAPORE</Country>
+		</Address>
+		<BillingAddress>
+			<Street>21 JALAN BUROH,</Street>
+			<Street>LEVEL 1</Street>
+			<ZipCode>610478</ZipCode>
+			<Country Code="SG">SINGAPORE</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="14a3abff-823b-4237-9193-61fc0e86dfc6">
+		<Type>ForwardingAgent</Type>
+		<Name>GLOBE EXPRESS LOGISTICS CO LTD</Name>
+		<CreatedOn>2018-11-12T15:01:03-05:00</CreatedOn>
+		<Address>
+			<Street>ROOM 405, TOWER C NO.212 NANWU ROAD GAOQUI AIRPORT, HULI DISTRICT</Street>
+			<City>XIAMEN</City>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</Address>
+		<BillingAddress>
+			<Street>ROOM 405, TOWER C NO.212 NANWU ROAD GAOQUI AIRPORT, HULI DISTRICT</Street>
+			<City>XIAMEN</City>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</BillingAddress>
+		<Phone>0592-5043111</Phone>
+		<Balance Currency="USD">-160.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="085b92b3-928a-4098-8d6d-fd007fe85098">
+		<Type>ForwardingAgent</Type>
+		<Name>BAJ FREIGHT &amp; LOGISTICS LTD</Name>
+		<CreatedOn>2018-10-31T15:50:19-04:00</CreatedOn>
+		<Address>
+			<Street>GEMAP HOUSE</Street>
+			<Street>TAKORADI</Street>
+		</Address>
+		<BillingAddress>
+			<Street>GEMAP HOUSE</Street>
+			<Street>TAKORADI</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="4ffe5be5-5f5a-4533-9289-6dc7dff97145">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS (TAIWAN) CO. LTD</Name>
+		<CreatedOn>2018-10-25T14:58:01-04:00</CreatedOn>
+		<Address>
+			<Street>12TH FLOOR NO.20 ALLEY 1</Street>
+			<Street>LANE 768 BA DE ROAD SEC.4</Street>
+			<Street>TAIPEI 11577</Street>
+			<Country Code="TW">TAIWAN, REPUBLIC OF CHINA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>12TH FLOOR NO.20 ALLEY 1</Street>
+			<Street>LANE 768 BA DE ROAD SEC.4</Street>
+			<Street>TAIPEI 11577</Street>
+			<Country Code="TW">TAIWAN, REPUBLIC OF CHINA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="158fb9ab-fad3-407a-b7b1-a195cea16fbb">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS CORP - CV</Name>
+		<CreatedOn>2018-10-23T13:56:11-04:00</CreatedOn>
+		<Address>
+			<Street>1335 DONALDSON RD#</Street>
+			<Street>ERLANGER, KY 41018</Street>
+			<Street>UNITED STATES</Street>
+		</Address>
+		<BillingAddress>
+			<Street>1335 DONALDSON RD#</Street>
+			<Street>ERLANGER, KY 41018</Street>
+			<Street>UNITED STATES</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2039a385-1fb6-4d39-b555-8567860fea20">
+		<Type>ForwardingAgent</Type>
+		<Name>PIONEER OCEAN FREIGHT CO. LTD</Name>
+		<CreatedOn>2018-10-19T13:09:49-04:00</CreatedOn>
+		<BillingAddress>
+			<Street>3656/30 RAMA 4 ROAD, KLONGTON</Street>
+			<Street>KLONGTOEY BANGKOK 10110 THAILAND</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="28bc8532-7a10-436f-a1ad-0eda5be43f70">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS GMBH</Name>
+		<CreatedOn>2018-10-15T15:50:46-04:00</CreatedOn>
+		<Address>
+			<Street>HEIDENKAMPSWEG 82</Street>
+			<Street>20097 HAMBURG</Street>
+		</Address>
+		<BillingAddress>
+			<Street>HEIDENKAMPSWEG 82</Street>
+			<Street>20097 HAMBURG</Street>
+		</BillingAddress>
+		<Balance Currency="USD">213.25</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="613d7da5-a13f-4ac3-b1a6-5192f95238f0">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT (SHENZEN) LIMITED</Name>
+		<CreatedOn>2018-10-09T15:26:13-04:00</CreatedOn>
+		<Address>
+			<Street>FLOOR 20, GOLDEN CENTURY BUILDING,</Street>
+			<Street>NO. 6033 SHENNAN ROAD, FUTIAN</Street>
+			<Street>SHENZEN</Street>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</Address>
+		<BillingAddress>
+			<Street>FLOOR 20, GOLDEN CENTURY BUILDING,</Street>
+			<Street>NO. 6033 SHENNAN ROAD, FUTIAN</Street>
+			<Street>SHENZEN</Street>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="abc80a11-0267-44dd-b014-14e5424264c5">
+		<Type>ForwardingAgent</Type>
+		<Name>ARIES FREIGHT SYSTEMS, LP</Name>
+		<CreatedOn>2018-09-26T12:51:14-04:00</CreatedOn>
+		<Address>
+			<Street>ATTN: LAUREN HAMLIN/DAVID WILSON</Street>
+			<Street>1501 EAST RICHEY ROAD</Street>
+			<Street>HOUSTON, TX 77073</Street>
+			<Country Code="US">UNITED STATES</Country>
+		</Address>
+		<BillingAddress>
+			<Street>ATTN: LAUREN HAMLIN/DAVID WILSON</Street>
+			<Street>1501 EAST RICHEY ROAD</Street>
+			<Street>HOUSTON, TX 77073</Street>
+			<Country Code="US">UNITED STATES</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7cf71f98-4415-402b-8499-3bd04b425b0c">
+		<Type>ForwardingAgent</Type>
+		<Name>CRANE WORLDWIDE LOGISTICS,LLC</Name>
+		<CreatedOn>2018-09-24T10:12:02-04:00</CreatedOn>
+		<Address>
+			<Street>1500 RANKIN RD</Street>
+			<Street>USA HOUSTON ,TEXAS 77073</Street>
+		</Address>
+		<BillingAddress>
+			<Street>1500 RANKIN RD</Street>
+			<Street>USA HOUSTON ,TEXAS 77073</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="33668e98-f004-4d30-a777-344e5286b8a7">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT HOLLAND B.V.</Name>
+		<CreatedOn>2018-09-20T09:19:30-04:00</CreatedOn>
+		<Address>
+			<Street>FOLKSTONEWEG 182</Street>
+			<Street>1118 LN SCHIPHOL</Street>
+			<Street>THE NETHERLANDS</Street>
+		</Address>
+		<BillingAddress>
+			<Street>FOLKSTONEWEG 182</Street>
+			<Street>1118 LN SCHIPHOL</Street>
+			<Street>THE NETHERLANDS</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-2440.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a329a582-15c7-404c-81e3-d1553072ad75">
+		<Type>ForwardingAgent</Type>
+		<Name>MIQ LOGISTICS (SHANGHAI) LTD</Name>
+		<CreatedOn>2018-08-23T22:13:11-04:00</CreatedOn>
+		<Address>
+			<Street>SUITE B, 15/F., HARBOUR RING</Street>
+			<Street>HUANGPU CENTRE, 98 LIUHE ROAD</Street>
+			<Street>SHANGHAI,</Street>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</Address>
+		<BillingAddress>
+			<Street>SUITE B, 15/F., HARBOUR RING</Street>
+			<Street>HUANGPU CENTRE, 98 LIUHE ROAD</Street>
+			<Street>SHANGHAI,</Street>
+			<Country Code="CN">CHINA (MAINLAND)</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="35c3c65a-372b-4c67-90ea-fdaae762e586">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS LIMITED</Name>
+		<CreatedOn>2018-08-03T09:42:39-04:00</CreatedOn>
+		<Address>
+			<Street>185 COURTNEYPARK DRIVE EAST</Street>
+			<Street>SUITE B</Street>
+			<Street>MISSISSAUGA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>185 COURTNEYPARK DRIVE EAST</Street>
+			<Street>SUITE B</Street>
+			<Street>MISSISSAUGA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="ffff1b03-d6f6-48b1-a1a3-2f25f9fd997c">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY DO BRASIL LOGISTICA INTERNACIONAL S/A</Name>
+		<CreatedOn>2018-08-02T13:11:04-04:00</CreatedOn>
+		<Address>
+			<Street>EDIF. MUNDO PLAZA/ SALA 1104 AV</Street>
+			<Street>TANCREDO NEVES, 620 CNPJ:</Street>
+			<Street>SALVADOR</Street>
+			<Country Code="BR">BRAZIL</Country>
+		</Address>
+		<BillingAddress>
+			<Street>EDIF. MUNDO PLAZA/ SALA 1104 AV</Street>
+			<Street>TANCREDO NEVES, 620 CNPJ:</Street>
+			<Street>SALVADOR</Street>
+			<Country Code="BR">BRAZIL</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="68f47cdb-ae1d-4822-8077-45abee5cc8be">
+		<Type>ForwardingAgent</Type>
+		<Name>EASYLOG SERVICOS E LOGISTICA LTDA</Name>
+		<CreatedOn>2018-07-31T13:16:59-04:00</CreatedOn>
+		<Address>
+			<Street>AS AGENT FOR AND ON BEHALF OF PYRAMID LINES -</Street>
+			<Street>RUA HERTA THIEME, 103 P:55-4733414800/F:554733414814 88305-645 - ITAJAI, SC,</Street>
+			<Street>BRAZIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AS AGENT FOR AND ON BEHALF OF PYRAMID LINES -</Street>
+			<Street>RUA HERTA THIEME, 103 P:55-4733414800/F:554733414814 88305-645 - ITAJAI, SC,</Street>
+			<Street>BRAZIL</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-6199.50</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="187e33e9-b555-4d08-84c3-aa61976c91e1">
+		<Type>ForwardingAgent</Type>
+		<Name>PRYAMID LINES</Name>
+		<CreatedOn>2018-07-17T10:36:32-04:00</CreatedOn>
+		<Address>
+			<Street>RUA HERTA TERIEME 103 ITAJAI</Street>
+			<Street>SC BRAZIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUA HERTA TERIEME 103 ITAJAI</Street>
+			<Street>SC BRAZIL</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="74f6abb6-19cf-437f-b8c3-b1e2960b4314">
+		<Type>ForwardingAgent</Type>
+		<Name>CARIBBEAN SHIPPING AGENCIES</Name>
+		<CreatedOn>2018-07-10T12:24:12-04:00</CreatedOn>
+		<Address>
+			<Street>PO BOX 352 115 ALBERT STREET</Street>
+			<Street>BELIZE CITY.</Street>
+			<Street>BELIZE C.A</Street>
+		</Address>
+		<BillingAddress>
+			<Street>PO BOX 352 115 ALBERT STREET</Street>
+			<Street>BELIZE CITY.</Street>
+			<Street>BELIZE C.A</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9e1f73df-8491-4f70-9ea6-041e6b3e0505">
+		<Type>ForwardingAgent</Type>
+		<Name>MIQ LOGISTICS INC SRL</Name>
+		<CreatedOn>2018-07-06T12:47:28-04:00</CreatedOn>
+		<Address>
+			<Street>AV 28 DE JULIO NRO 150 DPTO 5,</Street>
+			<Street>MIRAFLORES, LIMA- PERU</Street>
+			<Street>RUC 20509149179</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV 28 DE JULIO NRO 150 DPTO 5,</Street>
+			<Street>MIRAFLORES, LIMA- PERU</Street>
+			<Street>RUC 20509149179</Street>
+		</BillingAddress>
+		<Balance Currency="USD">45.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="cb663140-58b2-474b-a5d5-31214b88e1e7">
+		<Type>ForwardingAgent</Type>
+		<Name>MIQ LOGISTICS BV</Name>
+		<CreatedOn>2018-07-05T14:34:50-04:00</CreatedOn>
+		<Address>
+			<Street>FOLKSTONEWEG 22</Street>
+			<Street>1118 LM SCHIPHOL</Street>
+			<Street>NETHERLANDS</Street>
+		</Address>
+		<BillingAddress>
+			<Street>FOLKSTONEWEG 22</Street>
+			<Street>1118 LM SCHIPHOL</Street>
+			<Street>NETHERLANDS</Street>
+		</BillingAddress>
+		<Balance Currency="USD">93.599999999999994</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="853956ee-c521-4d42-aed8-5f13e3a080a2">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS KOREA INC.</Name>
+		<CreatedOn>2018-06-28T10:07:14-04:00</CreatedOn>
+		<Address>
+			<Street>#114 BUILDING A, 2851 BUNJI, WOONSEO</Street>
+			<Street>DONG, CHUNG KU INCHEON, KOREA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>3114 BUILDING A, 2851 BUNJI, WOONSEO</Street>
+			<Street>DONG, CHUNG KU INCHEON, KOREA</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">312.75999999999999</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7b7886bf-1c9d-41f9-9b67-a36cbc70922b">
+		<Type>ForwardingAgent</Type>
+		<Name>FAMOUS PACIFIC SHIPPING</Name>
+		<CreatedOn>2018-06-21T09:33:05-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="f1af32fd-7763-44b0-a53c-d733d49cf01d">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS KOREA INC.</Name>
+		<CreatedOn>2018-06-06T13:20:40-04:00</CreatedOn>
+		<Address>
+			<Street>#114 BUILDING A, 2851 BUNJI, WOONSEO</Street>
+			<Street>DONG, CHUNG KU INCHEON, KOREA</Street>
+			<Street>INCHEON 2851</Street>
+			<Country>REPUBLIC OF KOREA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>#114 BUILDING A, 2851 BUNJI, WOONSEO</Street>
+			<Street>DONG, CHUNG KU INCHEON, KOREA</Street>
+			<Street>INCHEON 2851</Street>
+			<Country>REPUBLIC OF KOREA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="918d8f96-bd9f-45ed-a3a3-c3e5640897ac">
+		<Type>ForwardingAgent</Type>
+		<Name>CAYTRANSBBC</Name>
+		<CreatedOn>2018-05-28T13:20:06-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="bef9ec9f-50e6-4cc5-8dee-d16e8cddf177">
+		<Type>ForwardingAgent</Type>
+		<Name>SAMRAT CONTAINER LINES</Name>
+		<CreatedOn>2018-05-23T14:44:49-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0219e4e8-8a51-4e71-9c6b-6ac52319f38d">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT MANAGEMENT</Name>
+		<CreatedOn>2018-04-18T09:41:32-04:00</CreatedOn>
+		<Address>
+			<Street>ON BEHALF PIRAMID LINES AS CARRIER</Street>
+			<Street>CC PLAZA ROHMOSER, LOCAL 33B</Street>
+		</Address>
+		<BillingAddress>
+			<Street>ON BEHALF PIRAMID LINES AS CARRIER</Street>
+			<Street>CC PLAZA ROHMOSER, LOCAL 33B</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-11862.770000000008</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="35b7b179-ae31-4b5a-b13a-298103d51c38">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY LOGISTICS (ORD)</Name>
+		<CreatedOn>2018-04-18T09:25:58-04:00</CreatedOn>
+		<Address>
+			<Street>491 Supreme Drive</Street>
+			<Street>BENSENVILLE IL 60106 US</Street>
+		</Address>
+		<BillingAddress>
+			<Street>491 Supreme Drive</Street>
+			<Street>BENSENVILLE IL 60106 US</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="ef282463-a1ae-4a41-9576-a0704619b2fb">
+		<Type>ForwardingAgent</Type>
+		<Name>SHENZHEN SUNWAY LOGISTICS CO LTD</Name>
+		<CreatedOn>2018-04-16T09:52:50-04:00</CreatedOn>
+		<Address>
+			<Street>RM 3013, XINWEN BUILDING, SHENNAN</Street>
+			<Street>RD, SHENZHEN, GUANGDONG 518027, CHINA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RM 3013, XINWEN BUILDING, SHENNAN</Street>
+			<Street>RD, SHENZHEN, GUANGDONG 518027, CHINA</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="68d66ad0-d03c-4c22-8f2e-8b6f71eb3e75">
+		<Type>ForwardingAgent</Type>
+		<Name>FALCON LOGISTICS INC.</Name>
+		<CreatedOn>2018-04-11T12:48:36-04:00</CreatedOn>
+		<Address>
+			<Street>49 EASTERN HIGHWAY</Street>
+			<Street>LAMAHA GARDENS</Street>
+			<Street>GEORGETOWN,</Street>
+			<Country Code="GY">GUYANA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>49 EASTERN HIGHWAY</Street>
+			<Street>LAMAHA GARDENS</Street>
+			<Street>GEORGETOWN,</Street>
+			<Country Code="GY">GUYANA</Country>
+		</BillingAddress>
+		<Balance Currency="USD">1548.47</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2532133c-923e-4eff-a029-f84e0c32055c">
+		<Type>ForwardingAgent</Type>
+		<Name>CARGO CONSOLIDATORS AGENCY LTD</Name>
+		<CreatedOn>2018-03-29T12:13:43-04:00</CreatedOn>
+		<Address>
+			<Street>43 NEW STREET,</Street>
+			<Street>PORT OF SPAIN.</Street>
+			<Street>TRINIDAD AND TOBAGO</Street>
+		</Address>
+		<BillingAddress>
+			<Street>43 NEW STREET,</Street>
+			<Street>PORT OF SPAIN.</Street>
+			<Street>TRINIDAD AND TOBAGO</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="90d1cd87-8d94-409f-8299-7b1d29cb3288">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT (UK) LTD</Name>
+		<CreatedOn>2018-03-28T09:44:28-04:00</CreatedOn>
+		<Address>
+			<Street>ECHT</Street>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>ECHT</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="c6063235-3db1-4dab-ad65-22ecbe43bc75">
+		<Type>ForwardingAgent</Type>
+		<Name>FORTUNE INTERNATIONAL TRANSPORT</Name>
+		<CreatedOn>2018-03-27T11:17:33-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0e203ba1-40cb-4f85-ae45-33a1da9676cc">
+		<Type>ForwardingAgent</Type>
+		<Name>CRANE WORLDWIDE LOGISTICA DO BRASIL LTDA- RIO</Name>
+		<CreatedOn>2018-03-20T09:41:13-04:00</CreatedOn>
+		<Address>
+			<Street>AV. RIO BRANCO 25, 12 ANDAR, BLOCOS C/D</Street>
+			<Street>20090-003, RIO DE JANEIRO, RJ, BRASIL</Street>
+			<Street>CNPJ: 04.393.356/0001-93</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV. RIO BRANCO 25, 12 ANDAR, BLOCOS C/D</Street>
+			<Street>20090-003, RIO DE JANEIRO, RJ, BRASIL</Street>
+			<Street>CNPJ: 04.393.356/0001-93</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="55a62d57-7b19-4523-893c-38841a08867b">
+		<Type>ForwardingAgent</Type>
+		<Name>DEM SHIPPING AGENCY</Name>
+		<CreatedOn>2018-03-15T08:51:45-04:00</CreatedOn>
+		<Address>
+			<Street>ON BEHALF OF MASTER OF BF CALOOSA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>ON BEHALF OF MASTER OF BF CALOOSA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="876ff153-ef20-410e-8367-edcecac73f30">
+		<Type>ForwardingAgent</Type>
+		<Name>SCHENKER, INC. -IAH</Name>
+		<CreatedOn>2018-03-01T12:06:20-05:00</CreatedOn>
+		<Address>
+			<Street>18851 KENSWICK DRIVE</Street>
+			<Street>HUMBLE, TX 77338, U.S.A.</Street>
+		</Address>
+		<BillingAddress>
+			<Street>18851 KENSWICK DRIVE</Street>
+			<Street>HUMBLE, TX 77338, U.S.A.</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="1761b6ab-7fce-4046-bed9-781b32ec7050">
+		<Type>ForwardingAgent</Type>
+		<Name>PANALPINA INC</Name>
+		<CreatedOn>2018-02-28T20:07:12-05:00</CreatedOn>
+		<Address>
+			<Street>NEW ORLEANS,</Street>
+			<Street>LOUISIANA 70123</Street>
+			<Street>USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>NEW ORLEANS,</Street>
+			<Street>LOUISIANA 70123</Street>
+			<Street>USA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="d4a3c9d4-9be4-4b04-97d1-b4b7f9a9748f">
+		<Type>ForwardingAgent</Type>
+		<Name>BOLLORE LOGISTICS UK LTD</Name>
+		<CreatedOn>2018-02-28T10:05:42-05:00</CreatedOn>
+		<Address>
+			<Street>UNIT 1 SKYLINE, GREAT SOUTH WEST ROAD</Street>
+			<Street>LONDON HEATHROW</Street>
+			<Street>MIDDLESEX TW14 8NT</Street>
+		</Address>
+		<BillingAddress>
+			<Street>UNIT 1 SKYLINE, GREAT SOUTH WEST ROAD</Street>
+			<Street>LONDON HEATHROW</Street>
+			<Street>MIDDLESEX TW14 8NT</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-195.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="5757ed27-ddc6-408b-bf9c-7649075929fd">
+		<Type>ForwardingAgent</Type>
+		<Name>PROFESSIONAL CARGO SERVICES, INC.</Name>
+		<CreatedOn>2018-02-18T14:02:41-05:00</CreatedOn>
+		<Address>
+			<Street>15619 MORALES ROAD</Street>
+			<Street>HOUSTON, TX 77032 UNITED STATES</Street>
+		</Address>
+		<BillingAddress>
+			<Street>15619 MORALES ROAD</Street>
+			<Street>HOUSTON, TX 77032 UNITED STATES</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a2472a88-b5ab-4b3a-af71-b86503bd502d">
+		<Type>ForwardingAgent</Type>
+		<Name>XL SYSTEMS L.P.</Name>
+		<CreatedOn>2018-02-17T15:21:39-05:00</CreatedOn>
+		<Address>
+			<Street>5780 HAGNER RD.</Street>
+			<Street>BEAUMONT, TEXAS 77705 USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>5780 HAGNER RD.</Street>
+			<Street>BEAUMONT, TEXAS 77705 USA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="d2ed4a89-f8e5-4cfc-ba54-7bb53b249eae">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA LOGISTICS</Name>
+		<CreatedOn>2018-01-30T14:16:57-05:00</CreatedOn>
+		<Address>
+			<Street>15355 Vickey Drive</Street>
+			<City>Houston Texas</City>
+			<State>TX</State>
+			<ZipCode>77032</ZipCode>
+			<Country Code="US">UNITED STATES</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>Colon Free Zone,</Street>
+			<Street>France Field Avenida 2da,</Street>
+			<Street>Calle 2da</Street>
+			<City>Colon City</City>
+			<Country Code="PA">PANAMA</Country>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">3629.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="8a75ddc1-1177-4753-9dac-e3f639cfd2d1">
+		<Type>ForwardingAgent</Type>
+		<Name>EASY SHIPPING GLOBAL LOGISTICA LTDA</Name>
+		<CreatedOn>2018-01-24T10:51:51-05:00</CreatedOn>
+		<Address>
+			<Street>RUA PRINCESA ISABEL, 40 - SALA 1110</Street>
+			<Street>- EDIFICIO PRIME TOWER</Street>
+			<Street>PH: (47) 3045 4800 ON BEHALF OF EDGE SOLUTIONS LIMITED CRICIUMA - CNPJ/CPF: 28456423000130</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RUA PRINCESA ISABEL, 40 - SALA 1110</Street>
+			<Street>- EDIFICIO PRIME TOWER</Street>
+			<Street>PH: (47) 3045 4800 ON BEHALF OF EDGE SOLUTIONS LIMITED CRICIUMA - CNPJ/CPF: 28456423000130</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-488.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="7ac36119-cf18-4553-bc2f-ed8bf564f63c">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT LLC.</Name>
+		<CreatedOn>2018-01-23T07:44:58-05:00</CreatedOn>
+		<Address>
+			<Street>2151 AIRWEST BLVD</Street>
+			<Street>PLAINFIELD</Street>
+			<Street>IN 46168</Street>
+			<Country Code="US">UNITED STATES</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>2850 EARHART COURT HEBRON KY 41048 US</Street>
+			<Street>AS AGENTS FOR AND ON BEHALF OF PYRAMID LINES</Street>
+			<Street>AS CARRIER</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">-20.010000000000002</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="24cdec8c-9ca9-4d9f-b3ab-3da2700cd375">
+		<Type>ForwardingAgent</Type>
+		<Name>MAGIC TRANSPORT INC</Name>
+		<CreatedOn>2018-01-12T08:22:10-05:00</CreatedOn>
+		<Address>
+			<Street>PEPSI INDUSTRIAL PARK PR-2</Street>
+			<Street>CANDELARIA</Street>
+			<Country Code="PR">PUERTO RICO</Country>
+		</Address>
+		<BillingAddress>
+			<Street>PEPSI INDUSTRIAL PARK PR-2</Street>
+			<Street>CANDELARIA</Street>
+			<Country Code="PR">PUERTO RICO</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="a668d355-717d-4fb9-a647-29df3d7c3367">
+		<Type>ForwardingAgent</Type>
+		<Name>BLUE WATER SHIPPING US, INC.</Name>
+		<CreatedOn>2018-01-09T14:22:35-05:00</CreatedOn>
+		<Address>
+			<Street>16945 NORTHCHASE DR.</Street>
+			<Street>STE 1550</Street>
+			<Street>HOUSTON, TX 77060</Street>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>16945 NORTHCHASE DR.</Street>
+			<Street>STE 1550</Street>
+			<Street>HOUSTON, TX 77060</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">-284490.13</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="3be5ef68-8c4f-4231-a507-abbaae9bdb9e">
+		<Type>ForwardingAgent</Type>
+		<Name>M-I SWACO</Name>
+		<CreatedOn>2017-11-22T10:22:54-05:00</CreatedOn>
+		<Address>
+			<Street>5950 North Course Drive</Street>
+			<Street>Dock B</Street>
+			<Street>Houston, TX 77072 USA</Street>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>GUYANA</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="d2264594-a8b6-4912-bba4-27e566cd1f7f">
+		<Type>ForwardingAgent</Type>
+		<Name>CEVA FREIGHT LLC</Name>
+		<CreatedOn>2017-10-26T09:57:16-04:00</CreatedOn>
+		<Address>
+			<Street>15355 VICKEY RD PHASE IV</Street>
+			<Street>HOUSTON</Street>
+			<Street>TX 77032</Street>
+			<Country Code="US">UNITED STATES</Country>
+		</Address>
+		<BillingAddress>
+			<Street>AS AGENT FOR AND ON BEHALF OF PYRAMIND LINES</Street>
+			<Street>3201 CENTRE PARKWAY SUITE 100</Street>
+			<Street>EAST POINT GA 30344 US</Street>
+		</BillingAddress>
+		<Balance Currency="USD">24560.120000000014</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="40e5cb12-2f28-4e0e-b88f-adb11e9919d7">
+		<Type>ForwardingAgent</Type>
+		<Name>ALPHA MARITIME LIMITED</Name>
+		<CreatedOn>2017-10-24T16:24:11-04:00</CreatedOn>
+		<Address>
+			<Street>LEFKOSIAS 12 STROVOLOS 2018</Street>
+			<Street>NICOSIA CYPRUS VAT NUMBER CY 10171634Y</Street>
+		</Address>
+		<BillingAddress>
+			<Street>LEFKOSIAS 12 STROVOLOS 2018</Street>
+			<Street>NICOSIA CYPRUS VAT NUMBER CY 10171634Y</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="588eed35-03c5-44c2-a481-2759bc496535">
+		<Type>ForwardingAgent</Type>
+		<Name>ECONO FREIGHT AGENCIES</Name>
+		<CreatedOn>2017-06-14T11:18:47-04:00</CreatedOn>
+		<Address>
+			<Street>LOT #2 SADHOO TR,EL SOCORRO,</Street>
+			<Street>SAN JUAN,TRINIDAD</Street>
+		</Address>
+		<BillingAddress>
+			<Street>LOT #2 SADHOO TR,EL SOCORRO,</Street>
+			<Street>SAN JUAN,TRINIDAD</Street>
+		</BillingAddress>
+		<Balance Currency="USD">95.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e39cb47f-0241-4e1a-9404-7a633e1fc411">
+		<Type>ForwardingAgent</Type>
+		<Name>NEPTUMAR SCHIFFAHRTSAGENTUR GMBH</Name>
+		<CreatedOn>2016-12-29T12:09:56-05:00</CreatedOn>
+		<Address>
+			<Street>MARTINISTR 61-28195 BREMEN</Street>
+		</Address>
+		<BillingAddress>
+			<Street>MARTINISTR 61-28195 BREMEN</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="ea84fc4f-8b41-40a4-9744-240604b3a397">
+		<Type>ForwardingAgent</Type>
+		<Name>Calvin Alkins Customs Services Inc</Name>
+		<CreatedOn>2016-11-17T07:33:59-05:00</CreatedOn>
+		<Address>
+			<Street>Gladstonia Building, Fontabelle, St. Michael, BB11149</Street>
+			<Country Code="BB">BARBADOS</Country>
+		</Address>
+		<BillingAddress>
+			<Street>Gladstonia Building, Fontabelle, St. Michael, BB11149</Street>
+			<Country Code="BB">BARBADOS</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="47846273-d1af-448f-b3e0-8ed5c440f2e6">
+		<Type>ForwardingAgent</Type>
+		<Name>EASY SOLUTION LOGISTICA LTDA</Name>
+		<CreatedOn>2016-09-13T14:38:13-04:00</CreatedOn>
+		<Address>
+			<Street>RUA ANTONIO MANOEL MOREIRA,70/SLS.4</Street>
+			<Street>01/402 FAZENDA</Street>
+			<Street>ITAJAI, SANTA CATARNIA</Street>
+			<Country Code="BR">BRAZIL</Country>
+		</Address>
+		<BillingAddress>
+			<Street>RUA ANTONIO MANOEL MOREIRA,70/SLS.4</Street>
+			<Street>01/402 FAZENDA</Street>
+			<Street>ITAJAI, SANTA CATARNIA</Street>
+			<Country Code="BR">BRAZIL</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="523fe9ed-ace9-42ec-b3bb-eaeed5f083f7">
+		<Type>ForwardingAgent</Type>
+		<Name>FPS FAMOUS PACIFIC SHIPPING BV</Name>
+		<CreatedOn>2016-09-13T14:29:50-04:00</CreatedOn>
+		<Address>
+			<Street>VAN RIEMSDIJKWEG 78</Street>
+			<Street>3088 HD ROTTERDAM</Street>
+			<Street>NETHERLANDS</Street>
+		</Address>
+		<BillingAddress>
+			<Street>VAN RIEMSDIJKWEG 78</Street>
+			<Street>3088 HD ROTTERDAM</Street>
+			<Street>NETHERLANDS</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="8950c04f-4190-4d19-811e-87d8af39df6c">
+		<Type>ForwardingAgent</Type>
+		<Name>SAMRAT CONTAINER LINES</Name>
+		<CreatedOn>2016-08-10T15:46:52-04:00</CreatedOn>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e287e0cc-04e6-4933-9702-99682b451f65">
+		<Type>ForwardingAgent</Type>
+		<Name>GUYANA COLOUR CRETE MANUFACTURING</Name>
+		<CreatedOn>2016-06-29T11:38:01-04:00</CreatedOn>
+		<Address>
+			<Street>1-2 COVERDEN EAST BANK DEMERARA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>1-2 COVERDEN EAST BANK DEMERARA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="866d5b06-187b-4ce8-bdfd-7a286d53ef5a">
+		<Type>ForwardingAgent</Type>
+		<Name>SAMRAT CONTAINER LINES</Name>
+		<CreatedOn>2016-06-08T15:26:42-04:00</CreatedOn>
+		<Address>
+			<Street>10 Corporate Place South, Suite 104,</Street>
+			<Street>Piscataway, New Jersey 08854, USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>10 Corporate Place South, Suite 104,</Street>
+			<Street>Piscataway, New Jersey 08854, USA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">75.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="9a2e73b3-0181-4cb9-9ba8-9a7eb3535693">
+		<Type>ForwardingAgent</Type>
+		<Name>ES LOGISTICA</Name>
+		<CreatedOn>2016-02-22T09:37:36-05:00</CreatedOn>
+		<Balance Currency="USD">-326.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="92843e1b-3da3-4a5e-8890-4f58e46b3ae8">
+		<Type>ForwardingAgent</Type>
+		<Name>CENTRAL SHIPPING AGENCY</Name>
+		<CreatedOn>2015-11-30T11:20:19-05:00</CreatedOn>
+		<Address>
+			<Street>VIA LUDOVICO DEL BREME, 25/27</Street>
+			<Street>20156 MILANO MI</Street>
+		</Address>
+		<BillingAddress>
+			<Street>VIA LUDOVICO DEL BREME, 25/27</Street>
+			<Street>20156 MILANO MI</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="aa088381-92cd-4a54-82ee-ea280137e0ec">
+		<Type>ForwardingAgent</Type>
+		<Name>GLOBE EXPRESS LOGISTICS</Name>
+		<CreatedOn>2015-11-09T09:06:48-05:00</CreatedOn>
+		<Address>
+			<Street>RM 1006-1008,BAOHUA CITY TOWER NO 518</Street>
+			<Street>ANYUAN ROAD,SHANGHAI,CHINA 200060</Street>
+		</Address>
+		<BillingAddress>
+			<Street>RM 1006-1008,BAOHUA CITY TOWER NO 518</Street>
+			<Street>ANYUAN ROAD,SHANGHAI,CHINA 200060</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsInactive>true</IsInactive>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0075d677-7f87-4f23-b9b9-663c91a8c224">
+		<Type>ForwardingAgent</Type>
+		<Name>PUNTOS CONGRUENTES (3101697194 SA)</Name>
+		<CreatedOn>2015-10-30T09:37:37-04:00</CreatedOn>
+		<Address>
+			<Street>CENTRO CORPORATIVO ROBLE</Street>
+			<Street>EDIFICIA LAS TERRAZAS, 5 PISO ESCAZU,</Street>
+			<Street>COSTA RICA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>CENTRO CORPORATIVO ROBLE</Street>
+			<Street>EDIFICIA LAS TERRAZAS, 5 PISO ESCAZU,</Street>
+			<Street>COSTA RICA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">1800.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="87677f99-5e8f-47ad-943b-a423b8690fe5">
+		<Type>ForwardingAgent</Type>
+		<Name>PLG DIVISION ADUANAS, S.A DE C.V.</Name>
+		<CreatedOn>2015-09-07T12:40:43-04:00</CreatedOn>
+		<Address>
+			<Street>Ave. Napoleon Viera AltamiranoEdificio MCL #430 2do Nivel</Street>
+			<Street>Col. Escalón, San Salvador, El Salvador.</Street>
+		</Address>
+		<BillingAddress>
+			<Street>Ave. Napoleon Viera AltamiranoEdificio MCL #430 2do Nivel</Street>
+			<Street>Col. Escalón, San Salvador, El Salvador.</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-70.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="84b99a4f-f214-496a-8ebd-25529249af8a">
+		<Type>ForwardingAgent</Type>
+		<Name>CODE LOGISTICS SA</Name>
+		<CreatedOn>2015-06-11T15:14:04-04:00</CreatedOn>
+		<Address>
+			<Street>4TH FLOOR OFICE 1 5150</Street>
+			<Street>BUENOS AIRES</Street>
+			<Street>BUENOS AIRES ARGENTINA 30714545325</Street>
+		</Address>
+		<BillingAddress>
+			<Street>4TH FLOOR OFICE 1 5150</Street>
+			<Street>BUENOS AIRES</Street>
+			<Street>BUENOS AIRES ARGENTINA 30714545325</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="79885261-490e-4017-bcc2-d81b2075864a">
+		<Type>ForwardingAgent</Type>
+		<Name>KRONOZ INTERNACIONAL INC</Name>
+		<CreatedOn>2015-06-02T15:05:57-04:00</CreatedOn>
+		<Address>
+			<Street>AV VASCONCELOS 109 OF .2 COL DEL</Street>
+			<Street>VALLE SAN PEDRO GARZA GARCIA NUEVO</Street>
+			<Street>LEON MEXICO RFC: ELO0112145R5</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV VASCONCELOS 109 OF .2 COL DEL</Street>
+			<Street>VALLE SAN PEDRO GARZA GARCIA NUEVO</Street>
+			<Street>LEON MEXICO RFC: ELO0112145R5</Street>
+		</BillingAddress>
+		<Balance Currency="USD">70.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="87774daf-2eb7-44c3-85d3-f70dc7223dc8">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY PROJECT LOGISTICS INC.(IAH)</Name>
+		<CreatedOn>2015-03-03T16:02:19-05:00</CreatedOn>
+		<Address>
+			<Street>15600 Morales Road</Street>
+			<City>HOUSTON</City>
+			<State>TEXAS</State>
+			<ZipCode>77032</ZipCode>
+			<Country>US</Country>
+		</Address>
+		<BillingAddress>
+			<Street>15600 Morales Road</Street>
+			<City>HOUSTON</City>
+			<State>TEXAS</State>
+			<ZipCode>77032</ZipCode>
+			<Country>US</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="2b0a1eef-1c66-4082-9108-3a589a9d9a10">
+		<Type>ForwardingAgent</Type>
+		<Name>PENTAGON FREIGHT SERVISES PTY LTD</Name>
+		<CreatedOn>2014-12-12T14:14:35-05:00</CreatedOn>
+		<Address>
+			<Street>23 BALLANTYNE ROAD KEWDALE</Street>
+			<Street>WESTERN AUSTRALIA 6105</Street>
+			<Country Code="AU">AUSTRALIA</Country>
+		</Address>
+		<BillingAddress>
+			<Street>23 BALLANTYNE ROAD KEWDALE</Street>
+			<Street>WESTERN AUSTRALIA 6105</Street>
+			<Country Code="AU">AUSTRALIA</Country>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="46e24dbc-d16f-4f34-9f82-28f1812e9ede">
+		<Type>ForwardingAgent</Type>
+		<Name>PLG GROUP SA</Name>
+		<CreatedOn>2014-10-17T16:33:15-04:00</CreatedOn>
+		<Address>
+			<Street>PUNTA PACIFICA, TORRE LAS AMERICAS</Street>
+			<Street>TORRE A PISO 15 APARTADO POSTAL 0832-0588</Street>
+			<Street>CUIDAD DE PANAMA REBUPLICA DE PANAMA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>PUNTA PACIFICA, TORRE LAS AMERICAS</Street>
+			<Street>TORRE A PISO 15 APARTADO POSTAL 0832-0588</Street>
+			<Street>CUIDAD DE PANAMA REBUPLICA DE PANAMA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">24072.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e4a8ea91-c2c7-4646-9f5a-668cd902ddee">
+		<Type>ForwardingAgent</Type>
+		<Name>MERIDIAN LOGISTICS SA</Name>
+		<CreatedOn>2014-08-11T16:55:08-04:00</CreatedOn>
+		<Address>
+			<Street>BOGOTA</Street>
+			<Street>COLOMBIA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>BOGOTA</Street>
+			<Street>COLOMBIA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="05152c28-828a-43de-aa19-183d82bb7446">
+		<Type>ForwardingAgent</Type>
+		<Name>CODONAVE</Name>
+		<CreatedOn>2014-05-23T15:02:42-04:00</CreatedOn>
+		<Address>
+			<Street>COMPANIA DOMINICANA DE NAVEGACION SRL</Street>
+			<Street>SANTO DOMINGO</Street>
+			<Street>DOMINICAN REPUBLIC</Street>
+		</Address>
+		<BillingAddress>
+			<Street>COMPANIA DOMINICANA DE NAVEGACION SRL</Street>
+			<Street>SANTO DOMINGO</Street>
+			<Street>DOMINICAN REPUBLIC</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="396e754a-0336-4aa0-9238-7a0c0ca7061b">
+		<Type>ForwardingAgent</Type>
+		<Name>TRADELOG COMERCIO EXTERIOR LTDA</Name>
+		<CreatedOn>2014-05-16T09:22:45-04:00</CreatedOn>
+		<Address>
+			<Street>AV MINISTRO VICTOR KONDER</Street>
+			<Street>CENTRO ITAJAI</Street>
+			<Street>BRAZIL</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV MINISTRO VICTOR KONDER</Street>
+			<Street>CENTRO ITAJAI</Street>
+			<Street>BRAZIL</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="62269146-624f-4eb0-90c3-2573b60c34ad">
+		<Type>ForwardingAgent</Type>
+		<Name>OVERSEAS CARGO INC</Name>
+		<CreatedOn>2014-04-28T10:33:48-04:00</CreatedOn>
+		<Address>
+			<Street>9614 PONDWOOD ROAD</Street>
+			<Street>BOCA RATON FL 33428</Street>
+			<Street>USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>9614 PONDWOOD ROAD</Street>
+			<Street>BOCA RATON FL 33428</Street>
+			<Street>USA</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="955a99bd-bfd7-41c0-b831-609b5f94ce31">
+		<Type>ForwardingAgent</Type>
+		<Name>AGILITY PROJECT LOGISTICS INC</Name>
+		<CreatedOn>2014-04-25T10:27:51-04:00</CreatedOn>
+		<Address>
+			<Street>15600 Morales Road</Street>
+			<City>Houston</City>
+			<State>TX</State>
+			<Country Code="US">UNITED STATES</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>San Salvador, El Salvador</Street>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">9674.8599999999442</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="3859bcf9-9e36-4079-8a12-881ff8ae84c6">
+		<Type>ForwardingAgent</Type>
+		<Name>SYNCRO LOGISTICS SRL</Name>
+		<CreatedOn>2014-04-03T15:58:53-04:00</CreatedOn>
+		<Address>
+			<Street>AV ABRAHAM LINCOLN 295</Street>
+			<Street>EDIF CARIBALICO 5TO PISO</Street>
+			<Street>SECTO LA JULIA SANTO DOMINGO</Street>
+		</Address>
+		<BillingAddress>
+			<Street>AV ABRAHAM LINCOLN 295</Street>
+			<Street>EDIF CARIBALICO 5TO PISO</Street>
+			<Street>SECTO LA JULIA SANTO DOMINGO</Street>
+		</BillingAddress>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="3904e69a-6329-47b1-9e18-c5dd0c2a1ab9">
+		<Type>ForwardingAgent</Type>
+		<Name>CARGO FREIGHT SERVICES INC</Name>
+		<CreatedOn>2014-02-07T09:48:51-05:00</CreatedOn>
+		<Address>
+			<Street>EDIF D MARIO PISO 4 OFICINA</Street>
+			<Street>4A ZONA LIBRE DE COLON</Street>
+			<Street>PANAMA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>EDIF D MARIO PISO 4 OFICINA</Street>
+			<Street>4A ZONA LIBRE DE COLON</Street>
+			<Street>PANAMA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-807.50</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="d9d55dc8-d2a1-4dc0-934b-423f376345e7">
+		<Type>ForwardingAgent</Type>
+		<Name>HARBOUR INTERNATIONAL</Name>
+		<CreatedOn>2013-12-11T13:45:26-05:00</CreatedOn>
+		<Address>
+			<Street>30 SHUMWAY AVE</Street>
+			<Street>BATAVIA IL 60510</Street>
+			<Street>USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>30 SHUMWAY AVE</Street>
+			<Street>BATAVIA IL 60510</Street>
+			<Street>USA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">6200.1000000000004</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="6c59990d-5781-4604-8d09-ebe7bd8c549b">
+		<Type>ForwardingAgent</Type>
+		<Name>DRT INTERNATIONAL INC</Name>
+		<CreatedOn>2013-11-06T13:30:38-05:00</CreatedOn>
+		<Address>
+			<Street>1940-1944 NW 82ND AVENUE</Street>
+			<Street>DORAL FLORIDA 33126</Street>
+			<Street>USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>1940-1944 NW 82ND AVENUE</Street>
+			<Street>DORAL FLORIDA 33126</Street>
+			<Street>USA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-507.51000000000022</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="0ff1d1f6-905a-4fc7-8138-1b08ab2fed3b">
+		<Type>ForwardingAgent</Type>
+		<Name>KESTREL LINER AGENCIES</Name>
+		<CreatedOn>2013-11-05T10:34:05-05:00</CreatedOn>
+		<Address>
+			<Street>9505 NW 108 AVENUE</Street>
+			<Street>MIAMI FL 33178</Street>
+			<Street>USA</Street>
+		</Address>
+		<BillingAddress>
+			<Street>9505 NW 108 AVENUE</Street>
+			<Street>MIAMI FL 33178</Street>
+			<Street>USA</Street>
+		</BillingAddress>
+		<Balance Currency="USD">-20685.979999999989</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="45c56389-c8bc-49c6-9d57-dfdcb2b8b371">
+		<Type>ForwardingAgent</Type>
+		<Name>Ramps Logistics Ltd</Name>
+		<CreatedOn>2013-10-29T13:20:01-04:00</CreatedOn>
+		<Address>
+			<Street>#33 Methuen Street WoodBrook</Street>
+			<City>Port of Spain</City>
+			<Country>TRINIDAD AND TOBAGO</Country>
+		</Address>
+		<Email>info@rampslogistics.com</Email>
+		<Website>www.rampslogistics.com</Website>
+		<Phone>1 868 627 5664</Phone>
+		<Fax>1-868-625-8245</Fax>
+		<NetworkID>23545</NetworkID>
+		<Balance Currency="USD">-22420.00</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="e6326b8b-4221-4e2b-93eb-d6f31f760e5a">
+		<Type>ForwardingAgent</Type>
+		<Name>RAMPS LOGISTICS LIMITED</Name>
+		<CreatedOn>2013-10-29T13:20:27-04:00</CreatedOn>
+		<Address>
+			<Street>#33 METHUEN STREET</Street>
+			<Street>WOODBROOK</Street>
+			<City>PORT OF SPAIN</City>
+			<Country>TRINIDAD AND TOBAGO</Country>
+			<Description>Default Shipping Address</Description>
+			<ContactPhone>18686275664</ContactPhone>
+			<ContactFax>18686258245</ContactFax>
+			<ContactEmail>info@rampslogistics.com</ContactEmail>
+		</Address>
+		<BillingAddress>
+			<Street>#33 METHUEN STREET</Street>
+			<Street>WOODBROOK</Street>
+			<City>PORT OF SPAIN</City>
+			<Country>TRINIDAD AND TOBAGO</Country>
+			<Description>Default Billing Address</Description>
+			<ContactPhone>18686275664</ContactPhone>
+			<ContactFax>18686258245</ContactFax>
+			<ContactEmail>info@rampslogistics.com</ContactEmail>
+		</BillingAddress>
+		<Email>info@rampslogistics.com</Email>
+		<Website>http://www.rampscustomstt.com</Website>
+		<Phone>18686275664</Phone>
+		<Fax>18686258245</Fax>
+		<NetworkID>25698</NetworkID>
+		<Balance Currency="USD">-115287.99000000001</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+	<ForwardingAgent GUID="fb914b18-ecf6-42f7-bf2f-5ab0d3b45075">
+		<Type>ForwardingAgent</Type>
+		<Name>RAMPS LOGISTICS GUYANA INC</Name>
+		<CreatedOn>2013-10-29T15:18:57-04:00</CreatedOn>
+		<Address>
+			<Street>23 BRICKDAM, STABROEK,</Street>
+			<Street>GEORGETOWN</Street>
+			<Street>GUYANA</Street>
+			<Country Code="GY">GUYANA</Country>
+			<Description>Default Shipping Address</Description>
+		</Address>
+		<BillingAddress>
+			<Street>23 BRICKDAM, STABROEK,</Street>
+			<Street>GEORGETOWN</Street>
+			<Street>GUYANA</Street>
+			<Country Code="GY">GUYANA</Country>
+			<Description>Default Billing Address</Description>
+		</BillingAddress>
+		<Balance Currency="USD">1648.46</Balance>
+		<TransactionDueDays>30</TransactionDueDays>
+		<PaymentTerms>
+			<Description>Net 30</Description>
+			<NetDueDays>30</NetDueDays>
+			<DiscountPercentage>0.00</DiscountPercentage>
+			<DiscountPaidDays>0</DiscountPaidDays>
+		</PaymentTerms>
+		<IsPrepaid>true</IsPrepaid>
+	</ForwardingAgent>
+</ForwardingAgents>
