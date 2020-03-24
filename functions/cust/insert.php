@@ -60,20 +60,19 @@ if(isset($_POST["operation"]))
 		}
 
 
-		$statement = $connection->prepare(
-			'UPDATE py_sales SET MAST_CUST_ID=:master,
-			CUST_GUID = :guid 
-			WHERE NAME =:name and SYSTEM =:system'
-		);
-		$result = $statement->execute(
-			array(
-				':master'	=>	$_POST["master"],
-				':guid'			=>	$_POST["guid"]
-				':system'			=>	$_POST["system"]
-				':name'	=>	$_POST["name"],
+		// $statement = $connection->prepare(
+		// 	'UPDATE py_sales SET MAST_CUST_ID=:master,
+		// 	CUST_GUID = :guid 
+		// 	WHERE NAME =:name and SYSTEM =:system'
+		// );
+		// $result = $statement->execute(
+		// 	array(
+		// 		':master'	=>	$_POST["master"],
+		// 		':guid'			=>	$_POST["guid"]
+		// 		':system'			=>	$_POST["system"]
+		// 		':name'	=>	$_POST["name"],
 
-			)
-		);
+		// 	)
 		if(!empty($result))
 		{
 			echo 'Data Updated';

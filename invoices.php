@@ -117,7 +117,7 @@ if (isset($_POST["xlsForm"])){
                     <tbody>
                         <?php 
                         $connect = mysqli_connect("localhost",'root',"","reporting");
-                        $result =mysqli_query($connect,"SELECT * FROM invoices");
+                        $result =mysqli_query($connect,"SELECT * FROM invoices limit 5");
                         while ($row = mysqli_fetch_array($result)){
                             echo '
                             <tr>
